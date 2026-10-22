@@ -1,0 +1,3437 @@
+[
+ {
+  "id": 10388068401209,
+  "title": "Slimoly™ Changing Foundation Stick The Stick That Makes Mature Skin Glow Again",
+  "handle": "changing-foundation-stick-the-stick-that-makes-mature-skin-glow-again",
+  "body_html": "",
+  "published_at": "2026-10-20T07:34:14Z",
+  "created_at": "2026-10-20T07:34:14Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 50864225386553,
+    "title": "Light",
+    "option1": "Light",
+    "option2": null,
+    "option3": null,
+    "sku": "nek8m9wu-A18-pkg-B01",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 42013552967737,
+     "product_id": 10388068401209,
+     "position": 10,
+     "created_at": "2026-10-20T07:34:14Z",
+     "updated_at": "2026-10-20T07:34:17Z",
+     "alt": null,
+     "width": 600,
+     "height": 600,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213128_001.jpg?v=1792481657",
+     "variant_ids": [
+      50864225386553
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10388068401209,
+    "created_at": "2026-10-20T07:34:14Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50864225484857,
+    "title": "Natural",
+    "option1": "Natural",
+    "option2": null,
+    "option3": null,
+    "sku": "nek8m9wu-A18-pkg-B04",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 42013553000505,
+     "product_id": 10388068401209,
+     "position": 11,
+     "created_at": "2026-10-20T07:34:14Z",
+     "updated_at": "2026-10-20T07:34:17Z",
+     "alt": null,
+     "width": 600,
+     "height": 600,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213135_001.jpg?v=1792481657",
+     "variant_ids": [
+      50864225484857
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 10388068401209,
+    "created_at": "2026-10-20T07:34:14Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50864225583161,
+    "title": "Medium",
+    "option1": "Medium",
+    "option2": null,
+    "option3": null,
+    "sku": "nek8m9wu-A18-pkg-B07",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 42013553033273,
+     "product_id": 10388068401209,
+     "position": 12,
+     "created_at": "2026-10-20T07:34:14Z",
+     "updated_at": "2026-10-20T07:34:17Z",
+     "alt": null,
+     "width": 823,
+     "height": 823,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213139_001.jpg?v=1792481657",
+     "variant_ids": [
+      50864225583161
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 10388068401209,
+    "created_at": "2026-10-20T07:34:14Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 42014968512569,
+    "created_at": "2026-10-20T08:32:15Z",
+    "position": 1,
+    "updated_at": "2026-10-20T08:32:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_9__21_42_01__3.jpg?v=1792485137",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42014968610873,
+    "created_at": "2026-10-20T08:32:15Z",
+    "position": 2,
+    "updated_at": "2026-10-20T08:32:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_10__14_49_16__3.jpg?v=1792485137",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42014968217657,
+    "created_at": "2026-10-20T08:32:15Z",
+    "position": 3,
+    "updated_at": "2026-10-20T08:32:16Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_9__21_41_32__1.jpg?v=1792485136",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42014968447033,
+    "created_at": "2026-10-20T08:32:15Z",
+    "position": 4,
+    "updated_at": "2026-10-20T08:32:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_9__21_41_53__2.jpg?v=1792485137",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42014968741945,
+    "created_at": "2026-10-20T08:32:16Z",
+    "position": 5,
+    "updated_at": "2026-10-20T08:32:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_10__14_49_09__2.jpg?v=1792485137",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42014968676409,
+    "created_at": "2026-10-20T08:32:16Z",
+    "position": 6,
+    "updated_at": "2026-10-20T08:32:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_10__14_49_17__4.jpg?v=1792485137",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42013552902201,
+    "created_at": "2026-10-20T07:34:14Z",
+    "position": 7,
+    "updated_at": "2026-10-20T07:34:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213058_001.jpg?v=1792481657",
+    "width": 823,
+    "height": 823
+   },
+   {
+    "id": 42013552934969,
+    "created_at": "2026-10-20T07:34:14Z",
+    "position": 8,
+    "updated_at": "2026-10-20T07:34:18Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213102_001.jpg?v=1792481658",
+    "width": 823,
+    "height": 823
+   },
+   {
+    "id": 42014968807481,
+    "created_at": "2026-10-20T08:32:16Z",
+    "position": 9,
+    "updated_at": "2026-10-20T08:32:18Z",
+    "product_id": 10388068401209,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_10_10__14_49_04__1.jpg?v=1792485138",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 42013552967737,
+    "created_at": "2026-10-20T07:34:14Z",
+    "position": 10,
+    "updated_at": "2026-10-20T07:34:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [
+     50864225386553
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213128_001.jpg?v=1792481657",
+    "width": 600,
+    "height": 600
+   },
+   {
+    "id": 42013553000505,
+    "created_at": "2026-10-20T07:34:14Z",
+    "position": 11,
+    "updated_at": "2026-10-20T07:34:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [
+     50864225484857
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213135_001.jpg?v=1792481657",
+    "width": 600,
+    "height": 600
+   },
+   {
+    "id": 42013553033273,
+    "created_at": "2026-10-20T07:34:14Z",
+    "position": 12,
+    "updated_at": "2026-10-20T07:34:17Z",
+    "product_id": 10388068401209,
+    "variant_ids": [
+     50864225583161
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DM_20261009213139_001.jpg?v=1792481657",
+    "width": 823,
+    "height": 823
+   }
+  ],
+  "options": [
+   {
+    "name": "Shade",
+    "position": 1,
+    "values": [
+     "Light",
+     "Natural",
+     "Medium"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10371701145657,
+  "title": "🎉Halloween Sale🎉 Tranexamic Acid Vitamin C Face Cream – Spot Fading & Skin Brightening Daily",
+  "handle": "✨-tranexamic-acid-vitamin-c-face-cream-spot-fading-skin-brightening-daily",
+  "body_html": "<div style=\"width: 100%; margin: 0; padding: 0; background: #fbf7f3; color: #5b4a4d; font-family: Arial,Helvetica,sans-serif; line-height: 1.5; box-sizing: border-box; overflow: hidden;\">\n<!-- HERO -->\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 26px 14px 22px; text-align: center; box-sizing: border-box;\">\n<div style=\"display: inline-block; margin: 0 0 12px; padding: 7px 13px; border-radius: 999px; background: #fbeaec; color: #9e1830; font-size: 14px; font-weight: 800; letter-spacing: .3px;\">✨ TRANEXAMIC ACID + VITAMIN C CREAM</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 38px; line-height: 1.08; font-weight: 900; letter-spacing: -.5px;\">Brighten Your Look <span style=\"color: #c91f37;\">Every Day</span>\n</h2>\n<p style=\"max-width: 820px; margin: 13px auto 0; color: #5b4a4d; font-size: 18px; line-height: 1.58;\">A daily brightening cream formulated with Tranexamic Acid and Vitamin C to help improve the look of dark spots, uneven tone and dryness while leaving skin soft and hydrated.</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 18px;\">\n<div style=\"flex: 1 1 150px; min-width: 140px; max-width: 260px; padding: 15px 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; text-align: center; box-sizing: border-box;\">\n<div style=\"width: 42px; height: 42px; margin: 0 auto 8px; border-radius: 50%; background: #fbeaec; color: #c91f37; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 16px;\">TXA</div>\n<div style=\"color: #2d2022; font-size: 16px; font-weight: 800;\">Dark Spot Care</div>\n<div style=\"margin-top: 3px; color: #7b666a; font-size: 13px;\">Targets visible discoloration</div>\n</div>\n<div style=\"flex: 1 1 150px; min-width: 140px; max-width: 260px; padding: 15px 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; text-align: center; box-sizing: border-box;\">\n<div style=\"width: 42px; height: 42px; margin: 0 auto 8px; border-radius: 50%; background: #fbeaec; color: #c91f37; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 15px;\">C</div>\n<div style=\"color: #2d2022; font-size: 16px; font-weight: 800;\">Vitamin C Glow</div>\n<div style=\"margin-top: 3px; color: #7b666a; font-size: 13px;\">Brightens dull-looking skin</div>\n</div>\n<div style=\"flex: 1 1 150px; min-width: 140px; max-width: 260px; padding: 15px 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; text-align: center; box-sizing: border-box;\">\n<div style=\"width: 42px; height: 42px; margin: 0 auto 8px; border-radius: 50%; background: #fbeaec; color: #c91f37; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 18px;\">💧</div>\n<div style=\"color: #2d2022; font-size: 16px; font-weight: 800;\">Deep Hydration</div>\n<div style=\"margin-top: 3px; color: #7b666a; font-size: 13px;\">Soft, comfortable moisture</div>\n</div>\n<div style=\"flex: 1 1 150px; min-width: 140px; max-width: 260px; padding: 15px 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; text-align: center; box-sizing: border-box;\">\n<div style=\"width: 42px; height: 42px; margin: 0 auto 8px; border-radius: 50%; background: #fbeaec; color: #c91f37; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 18px;\">☀️</div>\n<div style=\"color: #2d2022; font-size: 16px; font-weight: 800;\">Daily Care</div>\n<div style=\"margin-top: 3px; color: #7b666a; font-size: 13px;\">Fits AM &amp; PM routines</div>\n</div>\n</div>\n<div style=\"margin-top: 20px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/TikSave.io_7663317742182812942_3.gif?v=1788337426\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n</div>\n<!-- FEATURE 01 -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"display: inline-flex; width: 38px; height: 38px; align-items: center; justify-content: center; margin-bottom: 9px; border-radius: 50%; background: #d72b43; color: #fff; font-weight: 900; font-size: 15px;\">01</div>\n<div style=\"margin: 0 0 7px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Dark Spot Brightening</div>\n<h3 style=\"margin: 0 0 10px; color: #2d2022; font-size: 30px; line-height: 1.15; font-weight: 900;\">Fade the Look of <span style=\"color: #c91f37;\">Stubborn Spots</span>\n</h3>\n<p style=\"margin: 0 0 14px; color: #5b4a4d; font-size: 17px; line-height: 1.55;\">Tranexamic Acid helps improve the appearance of visible discoloration and uneven-looking areas for a clearer, more balanced complexion.</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 8px;\">\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Tranexamic Acid</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Dark Spot Care</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ More Even-Looking Tone</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Post-Blemish Mark Care</div>\n</div>\n<div style=\"margin-top: 20px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/object-remover-result-1788332155737.png?v=1788332190\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n</div>\n</div>\n<!-- FEATURE 02 -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"display: inline-flex; width: 38px; height: 38px; align-items: center; justify-content: center; margin-bottom: 9px; border-radius: 50%; background: #d72b43; color: #fff; font-weight: 900; font-size: 15px;\">02</div>\n<div style=\"margin: 0 0 7px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Vitamin C Brightening</div>\n<h3 style=\"margin: 0 0 10px; color: #2d2022; font-size: 30px; line-height: 1.15; font-weight: 900;\">Boost Glow &amp; <span style=\"color: #c91f37;\">Even-Looking Tone</span>\n</h3>\n<p style=\"margin: 0 0 14px; color: #5b4a4d; font-size: 17px; line-height: 1.55;\">Vitamin C supports a fresher, brighter-looking complexion and helps dull skin appear more radiant and even.</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 8px;\">\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Daily Brightening</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Vitamin C Care</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Fresh-Looking Glow</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Smoother-Looking Finish</div>\n</div>\n<div style=\"margin-top: 20px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/object-remover-result-1788332466949.png?v=1788332502\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n</div>\n</div>\n<!-- FEATURE 03 -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"display: inline-flex; width: 38px; height: 38px; align-items: center; justify-content: center; margin-bottom: 9px; border-radius: 50%; background: #d72b43; color: #fff; font-weight: 900; font-size: 15px;\">03</div>\n<div style=\"margin: 0 0 7px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Moisture-Rich Comfort</div>\n<h3 style=\"margin: 0 0 10px; color: #2d2022; font-size: 30px; line-height: 1.15; font-weight: 900;\">Hydrate While <span style=\"color: #c91f37;\">You Brighten</span>\n</h3>\n<p style=\"margin: 0 0 14px; color: #5b4a4d; font-size: 17px; line-height: 1.55;\">The creamy formula helps replenish dry-feeling skin with comfortable moisture while supporting a soft, smooth and healthy-looking glow.</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 8px;\">\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Deep Hydration</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Creamy Texture</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Soft, Smooth Feel</div>\n<div style=\"flex: 1 1 145px; padding: 10px 11px; background: #fff; border: 1px solid #eadbd9; border-radius: 10px; color: #2d2022; font-size: 14px; font-weight: bold;\">✓ Daily Moisture Support</div>\n</div>\n<div style=\"margin-top: 20px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/object-remover-result-1788332522486.png?v=1788332687\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n</div>\n</div>\n<!-- CORE FEATURES -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"text-align: center;\">\n<div style=\"margin: 0 0 6px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Balanced Daily Skincare</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 32px; line-height: 1.12; font-weight: 900;\">Brighten. Balance. <span style=\"color: #c91f37;\">Hydrate.</span>\n</h2>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;\">\n<div style=\"flex: 1 1 220px; padding: 17px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; box-sizing: border-box;\">\n<div style=\"font-size: 23px; margin-bottom: 7px;\">✨</div>\n<div style=\"color: #2d2022; font-size: 17px; font-weight: 800;\">Tranexamic Acid Care</div>\n<p style=\"margin: 5px 0 0; color: #7b666a; font-size: 14px; line-height: 1.5;\">Helps reduce the look of dark spots and uneven-looking areas for a more balanced appearance.</p>\n</div>\n<div style=\"flex: 1 1 220px; padding: 17px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; box-sizing: border-box;\">\n<div style=\"font-size: 23px; margin-bottom: 7px;\">🍊</div>\n<div style=\"color: #2d2022; font-size: 17px; font-weight: 800;\">Vitamin C Brightening</div>\n<p style=\"margin: 5px 0 0; color: #7b666a; font-size: 14px; line-height: 1.5;\">Supports brighter, fresher-looking skin and helps improve the appearance of dullness.</p>\n</div>\n<div style=\"flex: 1 1 220px; padding: 17px; background: #fff; border: 1px solid #eadbd9; border-radius: 13px; box-sizing: border-box;\">\n<div style=\"font-size: 23px; margin-bottom: 7px;\">💧</div>\n<div style=\"color: #2d2022; font-size: 17px; font-weight: 800;\">Moisture Support</div>\n<p style=\"margin: 5px 0 0; color: #7b666a; font-size: 14px; line-height: 1.5;\">Helps keep skin feeling soft, smooth and comfortably hydrated as part of daily care.</p>\n</div>\n</div>\n</div>\n</div>\n<!-- DARK PANEL -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 24px 14px; box-sizing: border-box;\">\n<div style=\"padding: 26px 22px; background: #3a2025; border-radius: 18px; box-sizing: border-box;\">\n<div style=\"margin: 0 0 6px; color: #f5b8c1; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Multi-Benefit Daily Care</div>\n<h3 style=\"margin: 0 0 10px; color: #fff; font-size: 30px; line-height: 1.15; font-weight: 900;\">One Cream For Brighter, More Even-Looking, Hydrated Skin</h3>\n<p style=\"margin: 0; color: #eadfe1; font-size: 17px; line-height: 1.55;\">Designed to support the three concerns shoppers notice most: visible dark spots, uneven-looking tone and dry, dull-looking skin.</p>\n<div style=\"display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;\">\n<div style=\"flex: 1 1 150px; padding: 12px 10px; text-align: center; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12); border-radius: 10px;\">\n<strong style=\"display: block; color: #fff; font-size: 14px;\">Brightening</strong> <span style=\"display: block; margin-top: 2px; color: #ddcfd2; font-size: 12px;\">For dull-looking skin</span>\n</div>\n<div style=\"flex: 1 1 150px; padding: 12px 10px; text-align: center; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12); border-radius: 10px;\">\n<strong style=\"display: block; color: #fff; font-size: 14px;\">Tone Care</strong> <span style=\"display: block; margin-top: 2px; color: #ddcfd2; font-size: 12px;\">For uneven-looking areas</span>\n</div>\n<div style=\"flex: 1 1 150px; padding: 12px 10px; text-align: center; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12); border-radius: 10px;\">\n<strong style=\"display: block; color: #fff; font-size: 14px;\">Hydrating</strong> <span style=\"display: block; margin-top: 2px; color: #ddcfd2; font-size: 12px;\">For soft, comfortable skin</span>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- APPLICATIONS -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"text-align: center;\">\n<div style=\"margin: 0 0 6px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Fits Your Routine</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 32px; line-height: 1.12; font-weight: 900;\">Easy Care. <span style=\"color: #c91f37;\">Morning To Night.</span>\n</h2>\n<p style=\"max-width: 780px; margin: 9px auto 0; color: #5b4a4d; font-size: 17px; line-height: 1.5;\">Use as part of a simple daily skincare routine whenever your skin needs brightening, tone-balancing care and moisture.</p>\n</div>\n<div style=\"margin-top: 16px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/object-remover-result-1788332615566.png?v=1788332688\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n<div style=\"display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;\">\n<div style=\"flex: 1 1 140px; padding: 14px 9px; text-align: center; background: #fff; border: 1px solid #eadbd9; border-radius: 11px;\">\n<div style=\"font-size: 27px;\">☀️</div>\n<strong style=\"display: block; margin-top: 5px; color: #2d2022; font-size: 15px;\">Morning Care</strong> <span style=\"display: block; margin-top: 2px; color: #7b666a; font-size: 12px;\">Start with hydrated glow</span>\n</div>\n<div style=\"flex: 1 1 140px; padding: 14px 9px; text-align: center; background: #fff; border: 1px solid #eadbd9; border-radius: 11px;\">\n<div style=\"font-size: 27px;\">💄</div>\n<strong style=\"display: block; margin-top: 5px; color: #2d2022; font-size: 15px;\">Before Makeup</strong> <span style=\"display: block; margin-top: 2px; color: #7b666a; font-size: 12px;\">Smooth moisture layer</span>\n</div>\n<div style=\"flex: 1 1 140px; padding: 14px 9px; text-align: center; background: #fff; border: 1px solid #eadbd9; border-radius: 11px;\">\n<div style=\"font-size: 27px;\">🚿</div>\n<strong style=\"display: block; margin-top: 5px; color: #2d2022; font-size: 15px;\">After Shower</strong> <span style=\"display: block; margin-top: 2px; color: #7b666a; font-size: 12px;\">Comfort dry-feeling skin</span>\n</div>\n<div style=\"flex: 1 1 140px; padding: 14px 9px; text-align: center; background: #fff; border: 1px solid #eadbd9; border-radius: 11px;\">\n<div style=\"font-size: 27px;\">🌙</div>\n<strong style=\"display: block; margin-top: 5px; color: #2d2022; font-size: 15px;\">Night Routine</strong> <span style=\"display: block; margin-top: 2px; color: #7b666a; font-size: 12px;\">Finish with daily care</span>\n</div>\n</div>\n</div>\n</div>\n<!-- HOW TO USE --><!-- PACKAGE -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\"><br></div>\n<!-- SPECS -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 28px 14px; box-sizing: border-box;\">\n<div style=\"text-align: center;\">\n<div style=\"margin: 0 0 6px; color: #c91f37; font-size: 14px; font-weight: 800; letter-spacing: .8px; text-transform: uppercase;\">Product Details</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 32px; line-height: 1.12; font-weight: 900;\">Specifications</h2>\n</div>\n<div style=\"margin-top: 14px; overflow: hidden; background: #fff; border: 1px solid #eadbd9; border-radius: 13px;\">\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Product Type</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Tranexamic Acid &amp; Vitamin C Cream</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Type</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Dark Spot Brightening Cream</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Key Benefits</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Dark spot care / Even-looking tone / Deep hydration</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Texture</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Cream</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Net Content</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">10ml + 10ml (as shown on package)</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Package Quantity</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">1 PC</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; border-bottom: 1px solid #eadbd9;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Suggested Use</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Daily AM / PM as directed</div>\n</div>\n<div style=\"display: flex; flex-wrap: wrap;\">\n<div style=\"flex: 0 0 180px; padding: 11px 13px; background: #f8f1ef; color: #2d2022; font-size: 14px; font-weight: 800; box-sizing: border-box;\">Suitable For</div>\n<div style=\"flex: 1 1 260px; padding: 11px 13px; color: #5b4a4d; font-size: 14px; box-sizing: border-box;\">Dull, uneven-looking and dry-feeling skin</div>\n</div>\n</div>\n<div style=\"margin-top: 20px; width: 100%; background: #fff; border: 2px dashed #d72b43; border-radius: 14px; overflow: hidden; box-sizing: border-box; line-height: 0;\"><img src=\"https://cdn.shopify.com/s/files/1/0998/7758/5195/files/object-remover-result-1788332688766.png?v=1788332698\" alt=\"\" style=\"display: block !important; width: 100% !important; max-width: none !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important; border-radius: 0 !important;\"></div>\n</div>\n</div>\n<!-- CUSTOMER REVIEWS -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 30px 14px; box-sizing: border-box;\">\n<div style=\"text-align: center;\">\n<div style=\"margin: 0 0 6px; color: #c91f37; font-size: 13px; font-weight: 900; letter-spacing: 1.1px; text-transform: uppercase;\">CUSTOMER REVIEW HIGHLIGHTS</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 32px; line-height: 1.12; font-weight: 900;\">What Shoppers May <span style=\"color: #c91f37;\">Love</span>\n</h2>\n<p style=\"max-width: 720px; margin: 9px auto 0; color: #7b666a; font-size: 15px; line-height: 1.5;\">Sample review copy for layout only. Replace with genuine customer feedback before publishing.</p>\n</div>\n<div style=\"display: flex; flex-wrap: wrap; gap: 12px; margin-top: 18px;\">\n<!-- REVIEW 01 -->\n<div style=\"flex: 1 1 240px; min-width: 0; padding: 18px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; box-sizing: border-box; box-shadow: 0 5px 18px rgba(83,39,46,.045);\">\n<div style=\"display: flex; align-items: center; gap: 11px; margin-bottom: 12px;\">\n<div style=\"flex: 0 0 44px; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #fbeaec; color: #c91f37; font-size: 20px;\">✨</div>\n<div style=\"min-width: 0;\">\n<div style=\"color: #d72b43; font-size: 15px; line-height: 1; font-weight: 900; letter-spacing: 1px;\">★★★★★</div>\n<div style=\"margin-top: 5px; color: #2d2022; font-size: 14px; font-weight: 900;\">Skin Looks Brighter</div>\n</div>\n</div>\n<div style=\"height: 1px; background: #f1e7e5; margin-bottom: 12px;\"><br></div>\n<p style=\"margin: 0; color: #5b4a4d; font-size: 14px; line-height: 1.62;\">“I like how this fits into my routine and leaves my skin looking fresh and more radiant without feeling heavy.”</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 14px;\">\n<div style=\"color: #2d2022; font-size: 13px; font-weight: 900;\">Emily R.</div>\n<div style=\"padding: 5px 9px; border-radius: 999px; background: #f8f1ef; color: #7b666a; font-size: 10px; font-weight: 800; letter-spacing: .3px;\">✔ Verified Purchase</div>\n</div>\n</div>\n<!-- REVIEW 02 -->\n<div style=\"flex: 1 1 240px; min-width: 0; padding: 18px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; box-sizing: border-box; box-shadow: 0 5px 18px rgba(83,39,46,.045);\">\n<div style=\"display: flex; align-items: center; gap: 11px; margin-bottom: 12px;\">\n<div style=\"flex: 0 0 44px; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #fbeaec; color: #c91f37; font-size: 20px;\">💧</div>\n<div style=\"min-width: 0;\">\n<div style=\"color: #d72b43; font-size: 15px; line-height: 1; font-weight: 900; letter-spacing: 1px;\">★★★★★</div>\n<div style=\"margin-top: 5px; color: #2d2022; font-size: 14px; font-weight: 900;\">Comfortable Hydration</div>\n</div>\n</div>\n<div style=\"height: 1px; background: #f1e7e5; margin-bottom: 12px;\"><br></div>\n<p style=\"margin: 0; color: #5b4a4d; font-size: 14px; line-height: 1.62;\">“The creamy texture feels comfortable on my dry areas and leaves my skin feeling soft and moisturized.”</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 14px;\">\n<div style=\"color: #2d2022; font-size: 13px; font-weight: 900;\">Sophia T.</div>\n<div style=\"padding: 5px 9px; border-radius: 999px; background: #f8f1ef; color: #7b666a; font-size: 10px; font-weight: 800; letter-spacing: .3px;\">✔ Verified Purchase</div>\n</div>\n</div>\n<!-- REVIEW 03 -->\n<div style=\"flex: 1 1 240px; min-width: 0; padding: 18px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; box-sizing: border-box; box-shadow: 0 5px 18px rgba(83,39,46,.045);\">\n<div style=\"display: flex; align-items: center; gap: 11px; margin-bottom: 12px;\">\n<div style=\"flex: 0 0 44px; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #fbeaec; color: #c91f37; font-size: 20px;\">☀️</div>\n<div style=\"min-width: 0;\">\n<div style=\"color: #d72b43; font-size: 15px; line-height: 1; font-weight: 900; letter-spacing: 1px;\">★★★★★</div>\n<div style=\"margin-top: 5px; color: #2d2022; font-size: 14px; font-weight: 900;\">Easy Daily Step</div>\n</div>\n</div>\n<div style=\"height: 1px; background: #f1e7e5; margin-bottom: 12px;\"><br></div>\n<p style=\"margin: 0; color: #5b4a4d; font-size: 14px; line-height: 1.62;\">“It layers easily into my morning routine and gives my skin a smoother, more even-looking finish.”</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 14px;\">\n<div style=\"color: #2d2022; font-size: 13px; font-weight: 900;\">Olivia K.</div>\n<div style=\"padding: 5px 9px; border-radius: 999px; background: #f8f1ef; color: #7b666a; font-size: 10px; font-weight: 800; letter-spacing: .3px;\">✔ Verified Purchase</div>\n</div>\n</div>\n<!-- REVIEW 04 -->\n<div style=\"flex: 1 1 240px; min-width: 0; padding: 18px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; box-sizing: border-box; box-shadow: 0 5px 18px rgba(83,39,46,.045);\">\n<div style=\"display: flex; align-items: center; gap: 11px; margin-bottom: 12px;\">\n<div style=\"flex: 0 0 44px; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #fbeaec; color: #c91f37; font-size: 20px;\">🌙</div>\n<div style=\"min-width: 0;\">\n<div style=\"color: #d72b43; font-size: 15px; line-height: 1; font-weight: 900; letter-spacing: 1px;\">★★★★★</div>\n<div style=\"margin-top: 5px; color: #2d2022; font-size: 14px; font-weight: 900;\">Simple AM &amp; PM Care</div>\n</div>\n</div>\n<div style=\"height: 1px; background: #f1e7e5; margin-bottom: 12px;\"><br></div>\n<p style=\"margin: 0; color: #5b4a4d; font-size: 14px; line-height: 1.62;\">“I use it as part of my evening skincare routine and like the soft, hydrated feel it gives my skin.”</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-top: 14px;\">\n<div style=\"color: #2d2022; font-size: 13px; font-weight: 900;\">Grace S.</div>\n<div style=\"padding: 5px 9px; border-radius: 999px; background: #f8f1ef; color: #7b666a; font-size: 10px; font-weight: 800; letter-spacing: .3px;\">✔ Verified Purchase</div>\n</div>\n</div>\n</div>\n<div style=\"margin-top: 13px; padding: 11px 13px; background: #fbeaec; border: 1px solid #efc8cf; border-radius: 11px; color: #8d4350; font-size: 12px; line-height: 1.5; text-align: center;\">Replace the four sample names and quotes above with genuine customer reviews before publishing.</div>\n</div>\n</div>\n<!-- FAQ -->\n<div style=\"border-top: 1px solid rgba(90,42,48,.08);\">\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 32px 14px; box-sizing: border-box;\">\n<!-- FAQ HEADER -->\n<div style=\"text-align: center; margin-bottom: 18px;\">\n<div style=\"display: inline-block; margin: 0 0 7px; padding: 5px 10px; background: #fbeaec; border-radius: 999px; color: #c91f37; font-size: 12px; font-weight: 900; letter-spacing: 1px; text-transform: uppercase;\">NEED TO KNOW</div>\n<h2 style=\"margin: 0; color: #2d2022; font-size: 32px; line-height: 1.12; font-weight: 900; letter-spacing: -.3px;\">Frequently Asked <span style=\"color: #c91f37;\">Questions</span>\n</h2>\n<p style=\"max-width: 680px; margin: 9px auto 0; color: #7b666a; font-size: 14px; line-height: 1.55;\">Quick answers to help shoppers understand how to use the cream and what it is designed to support.</p>\n</div>\n<!-- FAQ 01 -->\n<details style=\"margin: 0 0 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(83,39,46,.045);\">\n<summary style=\"display: flex; align-items: center; gap: 12px; padding: 15px 16px; cursor: pointer; color: #2d2022; font-size: 16px; font-weight: 800; line-height: 1.35;\"><span style=\"flex: 0 0 34px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #fbeaec; color: #c91f37; font-size: 12px; font-weight: 900;\">01</span> <span style=\"flex: 1; min-width: 0;\">What is this cream designed to help with?</span> <span style=\"flex: 0 0 30px; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #3a2025; color: #fff; font-size: 20px; font-weight: 400; line-height: 1;\">+</span></summary>\n<div style=\"margin: 0 16px 0 62px; border-top: 1px solid #f1e7e5;\"><br></div>\n<div style=\"padding: 12px 16px 16px 62px; color: #5b4a4d; font-size: 14px; line-height: 1.65;\">It is designed to help improve the appearance of dark spots, uneven-looking tone and dryness while supporting a brighter, hydrated complexion.</div>\n</details>\n<!-- FAQ 02 -->\n<details style=\"margin: 0 0 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(83,39,46,.045);\">\n<summary style=\"display: flex; align-items: center; gap: 12px; padding: 15px 16px; cursor: pointer; color: #2d2022; font-size: 16px; font-weight: 800; line-height: 1.35;\"><span style=\"flex: 0 0 34px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #fbeaec; color: #c91f37; font-size: 12px; font-weight: 900;\">02</span> <span style=\"flex: 1; min-width: 0;\">What are the key featured ingredients?</span> <span style=\"flex: 0 0 30px; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #3a2025; color: #fff; font-size: 20px; font-weight: 400; line-height: 1;\">+</span></summary>\n<div style=\"margin: 0 16px 0 62px; border-top: 1px solid #f1e7e5;\"><br></div>\n<div style=\"padding: 12px 16px 16px 62px; color: #5b4a4d; font-size: 14px; line-height: 1.65;\">The product is presented as a Tranexamic Acid and Vitamin C cream. The supplied product visuals also highlight botanical skin-conditioning ingredients such as jojoba seed oil, centella asiatica, white peony root extract and gentian root extract.</div>\n</details>\n<!-- FAQ 03 -->\n<details style=\"margin: 0 0 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(83,39,46,.045);\">\n<summary style=\"display: flex; align-items: center; gap: 12px; padding: 15px 16px; cursor: pointer; color: #2d2022; font-size: 16px; font-weight: 800; line-height: 1.35;\"><span style=\"flex: 0 0 34px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #fbeaec; color: #c91f37; font-size: 12px; font-weight: 900;\">03</span> <span style=\"flex: 1; min-width: 0;\">Can I use it in the morning and at night?</span> <span style=\"flex: 0 0 30px; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #3a2025; color: #fff; font-size: 20px; font-weight: 400; line-height: 1;\">+</span></summary>\n<div style=\"margin: 0 16px 0 62px; border-top: 1px solid #f1e7e5;\"><br></div>\n<div style=\"padding: 12px 16px 16px 62px; color: #5b4a4d; font-size: 14px; line-height: 1.65;\">The supplied product materials show it as suitable for daily AM/PM use. Follow the directions on your specific package, and use daytime sun protection as part of your skincare routine.</div>\n</details>\n<!-- FAQ 04 -->\n<details style=\"margin: 0 0 10px; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(83,39,46,.045);\">\n<summary style=\"display: flex; align-items: center; gap: 12px; padding: 15px 16px; cursor: pointer; color: #2d2022; font-size: 16px; font-weight: 800; line-height: 1.35;\"><span style=\"flex: 0 0 34px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #fbeaec; color: #c91f37; font-size: 12px; font-weight: 900;\">04</span> <span style=\"flex: 1; min-width: 0;\">How much should I apply?</span> <span style=\"flex: 0 0 30px; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #3a2025; color: #fff; font-size: 20px; font-weight: 400; line-height: 1;\">+</span></summary>\n<div style=\"margin: 0 16px 0 62px; border-top: 1px solid #f1e7e5;\"><br></div>\n<div style=\"padding: 12px 16px 16px 62px; color: #5b4a4d; font-size: 14px; line-height: 1.65;\">Apply a small, even amount to clean skin and massage gently until absorbed. Avoid over-applying; follow the package directions for your specific product.</div>\n</details>\n<!-- FAQ 05 -->\n<details style=\"margin: 0; background: #fff; border: 1px solid #eadbd9; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 15px rgba(83,39,46,.045);\">\n<summary style=\"display: flex; align-items: center; gap: 12px; padding: 15px 16px; cursor: pointer; color: #2d2022; font-size: 16px; font-weight: 800; line-height: 1.35;\"><span style=\"flex: 0 0 34px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #fbeaec; color: #c91f37; font-size: 12px; font-weight: 900;\">05</span> <span style=\"flex: 1; min-width: 0;\">Who is it suitable for?</span> <span style=\"flex: 0 0 30px; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #3a2025; color: #fff; font-size: 20px; font-weight: 400; line-height: 1;\">+</span></summary>\n<div style=\"margin: 0 16px 0 62px; border-top: 1px solid #f1e7e5;\"><br></div>\n<div style=\"padding: 12px 16px 16px 62px; color: #5b4a4d; font-size: 14px; line-height: 1.65;\">It is positioned for dull, uneven-looking and dry-feeling skin. If you have sensitive skin, patch test first and discontinue use if irritation occurs.</div>\n</details>\n</div>\n</div>\n<!-- FINAL CTA -->\n<div style=\"max-width: 1160px; margin: 0 auto; padding: 22px 14px 34px; box-sizing: border-box; text-align: center;\">\n<div style=\"padding: 28px 20px; background: #3a2025; border-radius: 18px;\">\n<h3 style=\"margin: 0; color: #fff; font-size: 30px; line-height: 1.16; font-weight: 900;\">Brighten. Balance. Hydrate.<br>Make It Part Of Your Daily Routine.</h3>\n<p style=\"max-width: 720px; margin: 10px auto 0; color: #e5d9dc; font-size: 16px; line-height: 1.55;\">A simple daily cream for shoppers looking to improve the look of dark spots, uneven tone and dryness with Tranexamic Acid + Vitamin C care.</p>\n<div style=\"display: inline-block; margin-top: 14px; padding: 9px 15px; background: #c91f37; border-radius: 999px; color: #fff; font-size: 14px; font-weight: 800;\">Tranexamic Acid • Vitamin C • Even Tone • Deep Hydration</div>\n</div>\n</div>\n</div>",
+  "published_at": "2026-10-13T07:01:21Z",
+  "created_at": "2026-10-13T07:01:21Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "LJW",
+  "product_type": "",
+  "tags": [
+   "05-ACCESSORIES"
+  ],
+  "variants": [
+   {
+    "id": 50765326516281,
+    "title": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option1": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A08-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10371701145657,
+    "created_at": "2026-10-13T10:03:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50765326549049,
+    "title": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option1": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A08-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "56.24",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 10371701145657,
+    "created_at": "2026-10-13T10:03:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50765326581817,
+    "title": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option1": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A08-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "68.74",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 10371701145657,
+    "created_at": "2026-10-13T10:03:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41855159337017,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 1,
+    "updated_at": "2026-10-13T07:01:24Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332031380.png?v=1791874884",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41855159369785,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 2,
+    "updated_at": "2026-10-13T07:01:25Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332155737.png?v=1791874885",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41855159402553,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 3,
+    "updated_at": "2026-10-13T07:01:24Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332466949.png?v=1791874884",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41855159435321,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 4,
+    "updated_at": "2026-10-13T07:01:26Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332522486.png?v=1791874886",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41855159468089,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 5,
+    "updated_at": "2026-10-13T07:01:25Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332615566.png?v=1791874885",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41855159500857,
+    "created_at": "2026-10-13T07:01:21Z",
+    "position": 6,
+    "updated_at": "2026-10-13T07:01:25Z",
+    "product_id": 10371701145657,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/object-remover-result-1788332688766.png?v=1791874885",
+    "width": 1254,
+    "height": 1254
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY💥Buy More Save More💥",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free ( 2PC)",
+     "🔥Buy 2 Get 2 Free ( 4PC)",
+     "🔥Buy 3 Get 3 Free ( 6PC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10369425539129,
+  "title": "🎨24‑Colors Dual‑Ended Nail Art Pens‑DIY Manicure Drawing Set🎁",
+  "handle": "🎨24-colors-dual-ended-nail-art-pens-diy-manicure-drawing-set🎁",
+  "body_html": "",
+  "published_at": "2026-10-12T08:34:59Z",
+  "created_at": "2026-10-12T08:34:59Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "ÃÀױ&»¤Àí",
+  "tags": [],
+  "variants": [
+   {
+    "id": 50755420422201,
+    "title": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option1": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A01-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234637815865,
+     "product_id": 10369425539129,
+     "position": 12,
+     "created_at": "2026-09-17T14:43:36Z",
+     "updated_at": "2026-09-17T14:43:38Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+     "variant_ids": [
+      50755420422201
+     ]
+    },
+    "available": true,
+    "price": "59.98",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10369425539129,
+    "created_at": "2026-10-12T08:34:59Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234637455417,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_462e130def66a60d8ff6c5256f6125dd_d37a41af-f33e-42f5-bca6-87899289436a.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637488185,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_da9306fddd202e6cef372ca5801fe4e0_af157945-ac86-4ccb-adf4-a23a0d3788e0.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637520953,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_3cb4325c239f576b38d500cebdb02f7c_04967ba5-0bdf-4601-b4bf-668776b3d0d6.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637553721,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_67731ad3ba7daf8604bc5ce416b34235_8ccff46b-e536-4f6f-8e88-90f415a6e8bf.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637586489,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4bc2b582bd636fb6ac41849a0d9b1d0b_ffaaa977-ff21-4962-8d7c-949b78d037ef.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637619257,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_28c932981596c8df32857cb870835b1f_32a7132c-2068-45e2-ba70-1892a6f70d2d.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637652025,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_b0bf57666087f6ed2097af214fb6810e_fdaa0693-5aee-4810-889f-22d9991914ae.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637684793,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_6aeaeb284fec33b244731d80a8e379e2_24a51eae-6f00-4ae4-8bd8-a74f7622aaf1.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637717561,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4ac477752a7ef0aad50495b818edf707_752d3df9-6f7d-487a-8cc6-53d1c8983612.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637750329,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 10,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_d6c85918013c423487e35e7e38d1001c_6d4f30ca-e1fb-417e-ad90-3c880b1d5a29.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637783097,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 11,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4e733d3cb405192776ee47ab81578d7b_f0f2c01c-cb1b-4c3c-96c7-8a8c14fc5fee.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637815865,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 12,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 10369425539129,
+    "variant_ids": [
+     50755420422201
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY💥Buy More Save More💥",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free ( 2PC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10365774430265,
+  "title": "🎉Halloween Sale🎉Slimoly™ Eye Renewal Cream",
+  "handle": "eye-renewal-creme",
+  "body_html": "",
+  "published_at": "2026-10-10T09:00:04Z",
+  "created_at": "2026-10-10T09:00:04Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 50737884692537,
+    "title": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option1": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A07-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10365774430265,
+    "created_at": "2026-10-10T09:02:43Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50737884725305,
+    "title": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option1": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A07-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 10365774430265,
+    "created_at": "2026-10-10T09:02:43Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50737884758073,
+    "title": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option1": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A07-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "59.98",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 10365774430265,
+    "created_at": "2026-10-10T09:02:43Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41935380152377,
+    "created_at": "2026-10-16T09:48:26Z",
+    "position": 1,
+    "updated_at": "2026-10-16T09:48:27Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_1_3c01047e-a793-482e-b9b8-ac92648b0e08.jpg?v=1792144107",
+    "width": 823,
+    "height": 823
+   },
+   {
+    "id": 41934563999801,
+    "created_at": "2026-10-16T09:05:09Z",
+    "position": 2,
+    "updated_at": "2026-10-16T09:05:10Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_4_-_1.jpg?v=1792141510",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41934564622393,
+    "created_at": "2026-10-16T09:05:11Z",
+    "position": 3,
+    "updated_at": "2026-10-16T09:05:13Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/10004_7aecb9ca-e358-4950-aeee-9abcd58a3029.jpg?v=1792141513",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41934564294713,
+    "created_at": "2026-10-16T09:05:10Z",
+    "position": 4,
+    "updated_at": "2026-10-16T09:05:11Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_5.jpg?v=1792141511",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41803454578745,
+    "created_at": "2026-10-10T09:00:05Z",
+    "position": 5,
+    "updated_at": "2026-10-10T09:00:08Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/6abf7b3db98b417139_176c68b8-0c4a-4a4b-8033-1e954f5f90ff.jpg?v=1791622808",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41934563475513,
+    "created_at": "2026-10-16T09:05:06Z",
+    "position": 6,
+    "updated_at": "2026-10-16T09:05:07Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/16f3643a-1fe0-4471-be5a-a95c4cdb1f5e.jpg?v=1792141507",
+    "width": 823,
+    "height": 823
+   },
+   {
+    "id": 41934564425785,
+    "created_at": "2026-10-16T09:05:11Z",
+    "position": 7,
+    "updated_at": "2026-10-16T09:05:12Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/0070992a-2a3f-42b5-9a09-f85dc7805efa.jpg?v=1792141512",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41803454742585,
+    "created_at": "2026-10-10T09:00:05Z",
+    "position": 8,
+    "updated_at": "2026-10-10T09:00:08Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/4c1a2409a5c726dcc9_4c879dea-61ba-4e7f-b9d9-762991186829.jpg?v=1791622808",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41803454709817,
+    "created_at": "2026-10-10T09:00:05Z",
+    "position": 9,
+    "updated_at": "2026-10-10T09:00:07Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/pt1-0243be1eec9c-04241-ezgif.com-video-to-gif-converter.gif?v=1791622807",
+    "width": 720,
+    "height": 720
+   },
+   {
+    "id": 41935100772409,
+    "created_at": "2026-10-16T09:30:10Z",
+    "position": 10,
+    "updated_at": "2026-10-16T09:30:13Z",
+    "product_id": 10365774430265,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/9cfdb1cf-8d9b-423d-a82c-00b604833b5e.png?v=1792143013",
+    "width": 1254,
+    "height": 1254
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY💥Buy More Save More💥",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free ( 2PC)",
+     "🔥Buy 2 Get 2 Free ( 4PC)",
+     "🔥Buy 3 Get 3 Free ( 6PC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10363217903673,
+  "title": "✨ Glow Party Tattoo Pens – Neon Temporary Tattoo Markers",
+  "handle": "novocanvas-glow-party-tattoo-pens",
+  "body_html": "<!-- Glow Party Tattoo Pens — Shopify product-description HTML --><style>  .bfg-glow,  .bfg-glow * { box-sizing: border-box; }  .bfg-glow {    --glow-green: #294c3b;    --glow-gold: #c69b52;    --glow-cream: #f7f4ed;    --glow-cream-light: #fcfbf8;    --glow-ink: #25302a;    --glow-muted: #68726c;    --glow-border: #d9dfd5;    width: 100% !important;    max-width: 100% !important;    position: static !important;    left: auto !important;    transform: none !important;    margin: 28px 0;    clear: both;    color: var(--glow-ink);    font-family: Arial, Helvetica, sans-serif;  }  .bfg-glow-card {    width: 100%;    margin: 0 0 20px;    padding: 34px 30px;    overflow: hidden;    text-align: center;    background: var(--glow-cream-light);    border: 1px solid var(--glow-border);    border-radius: 22px;    box-shadow: 0 8px 24px rgba(41, 76, 59, 0.06);  }  .bfg-glow-card--hero {    background: linear-gradient(135deg, #f8f5ee 0%, #eef4ec 100%);  }  .bfg-glow-label {    display: inline-block;    margin: 0 0 18px;    padding: 10px 22px;    color: #fff;    background: var(--glow-green);    border-radius: 999px;    font-size: 11px;    font-weight: 800;    line-height: 1;    letter-spacing: 1.2px;    text-transform: uppercase;  }  .bfg-glow-title,  .bfg-glow-subtitle {    margin: 0 0 14px;    color: var(--glow-ink);    font-weight: 800;    line-height: 1.23;  }  .bfg-glow-title { font-size: 30px; }  .bfg-glow-subtitle { font-size: 25px; }  .bfg-glow-copy {    margin: 0;    color: var(--glow-muted);    font-size: 16px;    line-height: 1.7;  }  .bfg-glow-highlights {    display: grid;    grid-template-columns: repeat(2, minmax(0, 1fr));    gap: 12px;    margin-top: 24px;  }  .bfg-glow-highlight {    min-height: 116px;    padding: 20px 14px;    display: flex;    flex-direction: column;    align-items: center;    justify-content: center;    background: rgba(255, 255, 255, 0.78);    border: 1px solid var(--glow-border);    border-radius: 16px;  }  .bfg-glow-highlight:last-child { grid-column: 1 / -1; }  .bfg-glow-highlight strong {    display: block;    margin-bottom: 7px;    color: var(--glow-green);    font-size: 16px;    line-height: 1.35;  }  .bfg-glow-highlight span {    color: var(--glow-muted);    font-size: 13px;    line-height: 1.5;  }  .bfg-glow-media-frame {    width: 100%;    margin-top: 12px;    padding: 12px;    display: flex;    align-items: center;    justify-content: center;    overflow: hidden;    background: rgba(255, 255, 255, 0.78);    border: 1px solid var(--glow-border);    border-radius: 16px;  }  .bfg-glow-media-frame img {    display: block;    width: auto;    max-width: 100%;    height: auto;    max-height: 480px;    margin: 0 auto;    object-fit: contain;    border: 0;    border-radius: 12px;  }  .bfg-glow-feature-copy { margin-bottom: 22px; }  .bfg-glow-image {    display: block !important;    width: 100% !important;    max-width: 100% !important;    height: auto !important;    margin: 0 !important;    border: 0 !important;    border-radius: 16px;  }  .bfg-glow-benefit-grid,  .bfg-glow-spec-grid {    display: grid;    grid-template-columns: repeat(2, minmax(0, 1fr));    gap: 12px;    margin-top: 22px;    text-align: left;  }  .bfg-glow-benefit,  .bfg-glow-spec {    padding: 18px;    background: #fff;    border: 1px solid var(--glow-border);    border-radius: 15px;  }  .bfg-glow-benefit strong,  .bfg-glow-spec strong {    display: block;    margin-bottom: 7px;    color: var(--glow-green);    font-size: 15px;    line-height: 1.4;  }  .bfg-glow-benefit p,  .bfg-glow-spec span {    margin: 0;    color: var(--glow-muted);    font-size: 13px;    line-height: 1.55;  }  .bfg-glow-faq {    margin-top: 20px;    text-align: left;  }  .bfg-glow-faq details {    margin-bottom: 10px;    overflow: hidden;    background: #fff;    border: 1px solid var(--glow-border);    border-radius: 14px;  }  .bfg-glow-faq summary {    position: relative;    padding: 17px 46px 17px 18px;    color: var(--glow-ink);    cursor: pointer;    list-style: none;    font-size: 14px;    font-weight: 800;    line-height: 1.4;  }  .bfg-glow-faq summary::-webkit-details-marker { display: none; }  .bfg-glow-faq summary::after {    content: \"+\";    position: absolute;    top: 50%;    right: 18px;    transform: translateY(-50%);    color: var(--glow-green);    font-size: 22px;    font-weight: 400;  }  .bfg-glow-faq details[open] summary::after { content: \"−\"; }  .bfg-glow-faq-answer {    padding: 0 18px 17px;    color: var(--glow-muted);    font-size: 13px;    line-height: 1.6;  }  .bfg-glow-cta {    padding: 38px 28px;    color: #fff;    background: linear-gradient(135deg, #294c3b 0%, #42664f 100%);    border: 0;  }  .bfg-glow-cta .bfg-glow-subtitle,  .bfg-glow-cta .bfg-glow-copy { color: #fff; }  .bfg-glow-button {    display: inline-block;    margin-top: 22px;    padding: 15px 28px;    color: var(--glow-green) !important;    background: #fff;    border-radius: 999px;    text-decoration: none !important;    font-size: 14px;    font-weight: 800;    line-height: 1.2;  }  .bfg-glow-trust {    display: flex;    flex-wrap: wrap;    justify-content: center;    gap: 9px 16px;    margin-top: 20px;    color: rgba(255, 255, 255, 0.9);    font-size: 12px;  }  @media screen and (max-width: 749px) {    .bfg-glow { margin: 20px 0; }    .bfg-glow-card {      margin-bottom: 16px;      padding: 26px 16px 16px;      border-radius: 18px;    }    .bfg-glow-label {      margin-bottom: 15px;      padding: 9px 17px;      font-size: 10px;    }    .bfg-glow-title { font-size: 25px; }    .bfg-glow-subtitle { font-size: 22px; }    .bfg-glow-copy {      font-size: 15px;      line-height: 1.65;    }    .bfg-glow-highlights,    .bfg-glow-benefit-grid,    .bfg-glow-spec-grid { grid-template-columns: 1fr; }    .bfg-glow-highlight:last-child { grid-column: auto; }    .bfg-glow-image { border-radius: 13px; }    .bfg-glow-cta { padding: 30px 18px; }  }</style><div class=\"bfg-glow\" id=\"glow-party-top\">\n<section class=\"bfg-glow-card bfg-glow-card--hero\"><span class=\"bfg-glow-label\">BLACKLIGHT PARTY GLOW</span><h2 class=\"bfg-glow-title\">Make Every Party Glow With 12 Vivid Colors ✨</h2>\n<div class=\"bfg-glow-highlights\">\n<div class=\"bfg-glow-highlight\">\n<strong>🌈 12 Luminous Colors</strong> <span>A full spectrum of vivid fluorescent shades.</span>\n</div>\n<div class=\"bfg-glow-highlight\">\n<strong>🖌️ Flexible Brush Tips</strong> <span>Smooth control for fine details and bold lines.</span>\n</div>\n<div class=\"bfg-glow-highlight\">\n<strong>✨ Quick-Drying Color</strong> <span>Helps designs stay bright with less messy smudging.</span>\n</div>\n</div>\n<div class=\"bfg-glow-media-frame\"><img src=\"https://cdn.shopify.com/s/files/1/0680/8833/2359/files/9_21.gif?v=1789974609\" alt=\"\"></div></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">OWN THE NIGHT</span><h2 class=\"bfg-glow-subtitle\">Radiant Color That Commands Attention</h2>\n<p class=\"bfg-glow-copy\">You do not just attend the party—you become the visual centerpiece. High-saturation fluorescent colors create striking temporary body art that stands out under blacklight.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/imgi_173_spp_shopify20260821141647_afb56339235d0acfdbd354d56995b7a0_2507e318-bc9e-4ace-a826-4f2adf8caab2.jpg?v=1789657508\" alt=\"Vibrant fluorescent tattoo marker designs glowing under blacklight\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">VIVID &amp; QUICK-DRYING</span><h2 class=\"bfg-glow-subtitle\">Leave Dull, Watery Color Behind</h2>\n<p class=\"bfg-glow-copy\">The quick-drying formula helps lock in vibrant color and reduce messy smudging, so your designs can stay crisp while you enjoy the event.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/imgi_165_spp_shopify20260821141644_753d515fa273f6532e3123c7ebfd5662_f2ab4742-6fcb-44b4-a018-47699e07fb34.jpg?v=1789657508\" alt=\"Bright quick-drying fluorescent marker colors\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">SOFT BRUSH CONTROL</span><h2 class=\"bfg-glow-subtitle\">Intricate Details Without the Drag</h2>\n<p class=\"bfg-glow-copy\">The flexible soft brush tip glides smoothly for better artistic control. Create sharp stars, flowing vines, lettering, and detailed festival designs with clean, consistent strokes.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/01_Intricate_Details_Without_The_Drag.webp?v=1789630008\" alt=\"Flexible soft brush tip drawing detailed fluorescent body art\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">12 SATURATED SHADES</span><h2 class=\"bfg-glow-subtitle\">A Full Color Kit for All-Night Creativity</h2>\n<p class=\"bfg-glow-copy\">Twelve distinct luminous colors give you the range to layer, outline, and combine shades for bold blacklight looks. The lightweight barrel and steady ink flow make long creative sessions more comfortable.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/imgi_142_spp_shopify20260821141639_aed1a6eb220cb770774d77ab0e588583_e575edb3-33af-42b9-bd86-7c0dcb8155d6.jpg?v=1789657508\" alt=\"Set of twelve saturated luminous tattoo marker colors\" loading=\"lazy\"><div class=\"bfg-glow-benefit-grid\">\n<div class=\"bfg-glow-benefit\">\n<strong>💡 Blacklight Reactive</strong><p>Fluorescent shades become more vivid under UV and blacklight.</p>\n</div>\n<div class=\"bfg-glow-benefit\">\n<strong>🎨 Easy Color Mixing</strong><p>Combine multiple shades for layered, expressive designs.</p>\n</div>\n<div class=\"bfg-glow-benefit\">\n<strong>✍️ Steady Ink Flow</strong><p>Designed for clean lines and more consistent coverage.</p>\n</div>\n<div class=\"bfg-glow-benefit\">\n<strong>🧼 Easy Skin Cleanup</strong><p>Wash temporary skin designs away with warm water and soap.</p>\n</div>\n</div></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">MORE THAN BODY ART</span><h2 class=\"bfg-glow-subtitle\">Decorate More Than Skin</h2>\n<p class=\"bfg-glow-copy\">Bring fluorescent color to glass, plastic, stones, fabric accessories, party props, pumpkins, candy buckets, phone cases, shoes, hats, and other creative surfaces.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/imgi_132_spp_shopify20260821141636_ecbe7aabd9930f7e8f00eaf6d2e0e5e2_7f90c532-e521-483a-8fb2-44f47c01808d.jpg?v=1789657508\" alt=\"Fluorescent tattoo pens used on crafts and multiple decorative surfaces\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">SEE THE DIFFERENCE</span><h2 class=\"bfg-glow-subtitle\">Why These Pens Stand Out After Dark</h2>\n<p class=\"bfg-glow-copy\">Bright pigment, soft brush control, quick drying, and versatile application come together in one easy-to-use set for blacklight events and creative nights.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/02_See_The_Difference.webp?v=1789630008\" alt=\"Comparison showing the vivid glow of fluorescent tattoo pens\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><div class=\"bfg-glow-feature-copy\">\n<span class=\"bfg-glow-label\">PARTY-READY CREATIVITY</span><h2 class=\"bfg-glow-subtitle\">Create the Look Before the Lights Go Down</h2>\n<p class=\"bfg-glow-copy\">Perfect for blacklight parties, festivals, Halloween costumes, birthday activities, sleepovers, DIY décor, and colorful photos. Open the set, choose your shades, and start creating.</p>\n</div>\n<img class=\"bfg-glow-image\" src=\"https://cdn.shopify.com/s/files/1/1011/7195/3958/files/imgi_319_spp_shopify20260821141628_afb8b38dfa8ecf01dadd20dfaef05d88_93e4abfd-0d23-4a25-8f09-e8607aa5ac3b.jpg?v=1789657508\" alt=\"Twelve glow party tattoo pens with colorful blacklight designs\" loading=\"lazy\"></section><section class=\"bfg-glow-card\"><span class=\"bfg-glow-label\">PRODUCT INFORMATION</span><h2 class=\"bfg-glow-subtitle\">Glow Party Tattoo Pens Specifications</h2>\n<div class=\"bfg-glow-spec-grid\">\n<div class=\"bfg-glow-spec\">\n<strong>Set Size</strong><span>12 luminous colors</span>\n</div>\n<div class=\"bfg-glow-spec\">\n<strong>Tip Style</strong><span>Flexible soft brush tip</span>\n</div>\n<div class=\"bfg-glow-spec\">\n<strong>Color Effect</strong><span>Fluorescent and blacklight reactive</span>\n</div>\n<div class=\"bfg-glow-spec\">\n<strong>Drying</strong><span>Quick-drying formula</span>\n</div>\n<div class=\"bfg-glow-spec\">\n<strong>Uses</strong><span>Temporary body art and creative surfaces</span>\n</div>\n<div class=\"bfg-glow-spec\">\n<strong>Skin Cleanup</strong><span>Warm water and soap</span>\n</div>\n</div></section><section class=\"bfg-glow-card\"><span class=\"bfg-glow-label\">FREQUENTLY ASKED QUESTIONS</span><h2 class=\"bfg-glow-subtitle\">Helpful Answers Before You Create</h2>\n<div class=\"bfg-glow-faq\">\n<details><summary>Do the colors glow in complete darkness?</summary><div class=\"bfg-glow-faq-answer\">The fluorescent colors are designed to become especially vivid under UV or blacklight.</div></details><details><summary>How many colors are included?</summary><div class=\"bfg-glow-faq-answer\">The set includes 12 distinct luminous colors.</div></details><details><summary>Can I use the pens on surfaces other than skin?</summary><div class=\"bfg-glow-faq-answer\">Yes. The product is promoted for creative use on glass, plastic, stones, fabric accessories, party props, and more. Test a small hidden area first when surface compatibility matters.</div></details><details><summary>How do I remove the ink from skin?</summary><div class=\"bfg-glow-faq-answer\">Wash the temporary design with warm water and soap.</div></details><details><summary>What events are these pens suited for?</summary><div class=\"bfg-glow-faq-answer\">They are ideal for blacklight parties, festivals, Halloween, birthdays, sleepovers, costume looks, DIY projects, and creative photo sessions.</div></details>\n</div></section><section class=\"bfg-glow-card bfg-glow-cta\"><h2 class=\"bfg-glow-subtitle\">Ready to Own the Night?</h2>\n<p class=\"bfg-glow-copy\">Choose your 12-color set and turn your next party, costume, or creative project into a brighter blacklight experience.</p>\n<div class=\"bfg-glow-trust\">\n<span>✓ 12 Luminous Colors</span> <span>✓ Soft Brush Tips</span> <span>✓ Quick-Drying Formula</span>\n</div></section>\n</div>",
+  "published_at": "2026-10-09T09:31:13Z",
+  "created_at": "2026-10-09T09:31:14Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "sprouted",
+  "product_type": "",
+  "tags": [
+   "flow-keyword-backfill",
+   "NK"
+  ],
+  "variants": [
+   {
+    "id": 50723603677241,
+    "title": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option1": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A06-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": "58.00",
+    "position": 1,
+    "product_id": 10363217903673,
+    "created_at": "2026-10-09T09:31:14Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50723978707001,
+    "title": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option1": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A06-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": "58.00",
+    "position": 2,
+    "product_id": 10363217903673,
+    "created_at": "2026-10-09T10:02:42Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50723978739769,
+    "title": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option1": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A06-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "59.98",
+    "grams": 0,
+    "compare_at_price": "58.00",
+    "position": 3,
+    "product_id": 10363217903673,
+    "created_at": "2026-10-09T10:02:42Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41781643771961,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 1,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_319_spp_shopify20260821141628_afb8b38dfa8ecf01dadd20dfaef05d88_93e4abfd-0d23-4a25-8f09-e8607aa5ac3b.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643804729,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 2,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_33_spp_shopify20260821141630_f2016e68608b124e53c80b8bf18af161_64a38d51-ccf4-4e53-aa9f-a19ce0e7a625.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643837497,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 3,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_34_spp_shopify20260821141633_9f2cd7555eaf9d8a39d997dff62b35b9_146e866c-3b79-4448-a8f3-329bc9e35535.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643870265,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 4,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_132_spp_shopify20260821141636_ecbe7aabd9930f7e8f00eaf6d2e0e5e2_7f90c532-e521-483a-8fb2-44f47c01808d.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643903033,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 5,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_142_spp_shopify20260821141639_aed1a6eb220cb770774d77ab0e588583_e575edb3-33af-42b9-bd86-7c0dcb8155d6.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643935801,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 6,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_153_spp_shopify20260821141642_4780bf2d48ff7e0270c546a2999730a9_55a03cfd-d92e-4504-8ac3-0c291a8b2bfb.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781643968569,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 7,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_165_spp_shopify20260821141644_753d515fa273f6532e3123c7ebfd5662_f2ab4742-6fcb-44b4-a018-47699e07fb34.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781644001337,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 8,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_173_spp_shopify20260821141647_afb56339235d0acfdbd354d56995b7a0_2507e318-bc9e-4ace-a826-4f2adf8caab2.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41781644034105,
+    "created_at": "2026-10-09T09:31:14Z",
+    "position": 9,
+    "updated_at": "2026-10-09T09:31:17Z",
+    "product_id": 10363217903673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_63_spp_shopify20260821141649_660a680e1ebc943829610a89be0a5bef_37790bb9-d4f1-462f-b421-ffc4f4d16aef.jpg?v=1791538277",
+    "width": 800,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY💥Buy More Save More💥",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free ( 2PC)",
+     "🔥Buy 2 Get 2 Free ( 4PC)",
+     "🔥Buy 3 Get 3 Free ( 6PC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10355931119673,
+  "title": "🥳2026 HOT SALE❄️🌸 Ice-Cooling Hair Removal Cream – instantly soothes sensitive skin. ✨",
+  "handle": "ice-cooling-hair-removal-cream-for-sensitive-skin",
+  "body_html": "",
+  "published_at": "2026-10-06T10:46:55Z",
+  "created_at": "2026-10-06T10:46:55Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [
+   "KB多买"
+  ],
+  "variants": [
+   {
+    "id": 50670905098297,
+    "title": "🔥Buy 1 Get 1 Free",
+    "option1": "🔥Buy 1 Get 1 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "t7btzvwn-A02-pkg--2pc",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10355931119673,
+    "created_at": "2026-10-06T10:46:55Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50670905131065,
+    "title": "🔥Buy 2 Get 2 Free",
+    "option1": "🔥Buy 2 Get 2 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "t7btzvwn-A02-pkg--4pc",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 10355931119673,
+    "created_at": "2026-10-06T10:46:55Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50670924005433,
+    "title": "🔥Buy 3 Get 3 Free",
+    "option1": "🔥Buy 3 Get 3 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "t7btzvwn-A02-pkg--6pc",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "59.97",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 10355931119673,
+    "created_at": "2026-10-06T11:01:56Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41715158548537,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 1,
+    "updated_at": "2026-10-06T10:46:58Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/5_934c7597-f4cd-4e5d-89e9-13f8b65d7b96.png?v=1791283618",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158581305,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 2,
+    "updated_at": "2026-10-06T10:46:58Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/6_2c109d1e-e75d-469d-94d2-c9eea01f3f16.png?v=1791283618",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158614073,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 3,
+    "updated_at": "2026-10-06T10:46:59Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/3_5bd89085-902b-4eb2-9c68-2820b4a4b3d5.png?v=1791283619",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158646841,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 4,
+    "updated_at": "2026-10-06T10:46:59Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/4_8c02b7af-fd2e-46e9-9e3a-25f05ba26b57.png?v=1791283619",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158679609,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 5,
+    "updated_at": "2026-10-06T10:46:58Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260814163528_25a37783bfbf80102b91fe1f426f74e7.jpg?v=1791283618",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41715158712377,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 6,
+    "updated_at": "2026-10-06T10:46:59Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/8_ee1b8a20-348f-4f7b-8d4a-8d1a1f0f658d.png?v=1791283619",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158745145,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 7,
+    "updated_at": "2026-10-06T10:46:59Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_db2b084c-28a2-4ad8-97ac-f90108ad87d6.png?v=1791283619",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158777913,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 8,
+    "updated_at": "2026-10-06T10:46:58Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/7_82607e43-778c-4e5e-a0fd-e0c1c218f24a.png?v=1791283618",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41715158810681,
+    "created_at": "2026-10-06T10:46:55Z",
+    "position": 9,
+    "updated_at": "2026-10-06T10:46:58Z",
+    "product_id": 10355931119673,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/1_ff2f6f3f-509c-4892-9d17-d14e2ae168ba.png?v=1791283618",
+    "width": 1200,
+    "height": 1200
+   }
+  ],
+  "options": [
+   {
+    "name": "Buy More Save More",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free",
+     "🔥Buy 2 Get 2 Free",
+     "🔥Buy 3 Get 3 Free"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10316814909497,
+  "title": "Slimoly™Instant Reduction Eye Serum",
+  "handle": "instant-reduction-eye-serum",
+  "body_html": "",
+  "published_at": "2026-09-23T07:56:04Z",
+  "created_at": "2026-09-23T07:56:04Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 50532448043065,
+    "title": "Buy 1 get 1 free",
+    "option1": "Buy 1 get 1 free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A04-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 10316814909497,
+    "created_at": "2026-09-23T07:58:18Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50532448075833,
+    "title": "Buy 2 get 2 free",
+    "option1": "Buy 2 get 2 free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A04-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 10316814909497,
+    "created_at": "2026-09-23T07:58:18Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 50532448108601,
+    "title": "Buy 3 get 3 free",
+    "option1": "Buy 3 get 3 free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A04-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "62.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 10316814909497,
+    "created_at": "2026-09-23T07:58:18Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41376162742329,
+    "created_at": "2026-09-23T07:56:04Z",
+    "position": 1,
+    "updated_at": "2026-09-23T07:56:06Z",
+    "product_id": 10316814909497,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/5a835cdc6597b310cc.jpg?v=1790150166",
+    "width": 1254,
+    "height": 1254
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY",
+    "position": 1,
+    "values": [
+     "Buy 1 get 1 free",
+     "Buy 2 get 2 free",
+     "Buy 3 get 3 free"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8457546203193,
+  "title": "Slimoly™ Instant Eye Firmer",
+  "handle": "instant-eye-firmer",
+  "body_html": "",
+  "published_at": "2026-09-18T12:50:59Z",
+  "created_at": "2026-09-18T12:50:59Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 48924673048633,
+    "title": "🔥Buy 1 Get 1 Free",
+    "option1": "🔥Buy 1 Get 1 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A03-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 8457546203193,
+    "created_at": "2026-09-19T08:30:07Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 48924673081401,
+    "title": "🔥Buy 2 Get 2 Free",
+    "option1": "🔥Buy 2 Get 2 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A03-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 8457546203193,
+    "created_at": "2026-09-19T08:30:07Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 48924673114169,
+    "title": "🔥Buy 3 Get 3 Free",
+    "option1": "🔥Buy 3 Get 3 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A03-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 8457546203193,
+    "created_at": "2026-09-19T08:30:07Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41257100378169,
+    "created_at": "2026-09-18T12:50:59Z",
+    "position": 1,
+    "updated_at": "2026-09-18T12:51:02Z",
+    "product_id": 8457546203193,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/concele_shelf_buy1get2_headline_1x1_b5266574-af96-4963-9cde-81cfa9dabdb9.png?v=1789735862",
+    "width": 2048,
+    "height": 2048
+   }
+  ],
+  "options": [
+   {
+    "name": "qty",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free",
+     "🔥Buy 2 Get 2 Free",
+     "🔥Buy 3 Get 3 Free"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8457184051257,
+  "title": "Painless Hair Removal Spray for Smooth Silky Skin",
+  "handle": "painlkin",
+  "body_html": "<p><strong><span style=\"color: #e67e23;\">FEATURES</span></strong></p>\n<p><strong>SILKY BEAUTY</strong><strong> - </strong>Harness the power of nature for effortless hair removal and skin rejuvenation.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0719/8320/2419/files/spp_shopify20260911184258_4ccbf3661d15d3a6d1870892bcec0ffb.jpg?v=1789123382\"></p>\n<p><strong>DEEP FOLLICLE ACTION</strong><strong> - </strong>Our deep infiltration technology targets the hair follicle directly, ensuring that even the shortest hairs are effectively managed for results.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184339_32627ec529788e94125a494248d8e2b4_e089fdd8-42e4-4fe3-b1fd-7fa311d1e164_1_1.jpg?v=1789722760\" alt=\"\"></p>\n<p><strong>MOISTURE-RICH SMOOTHNESS</strong><strong> - </strong>Enriched with jojoba oil and aloe vera, the formula creates a protective moisture barrier that keeps skin soft and glowing.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0719/8320/2419/files/spp_shopify20260911184313_00665fc0d0be1bb7be48267c0030a992.jpg?v=1789123397\"></p>\n<p><strong>PURE BOTANICAL ESSENCE</strong><strong> - </strong>We combine Tea Tree, Aloe Vera, and Jojoba Seed Oil to create a mild yet effective formula that respects your skin's natural balance.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0719/8320/2419/files/spp_shopify20260911184320_6d89049ad413b00a38684f50495856e3.jpg?v=1789123404\"></p>\n<p><strong>GENTLE SENSITIVE CARE</strong><strong> - </strong>Designed for maximum comfort, the fine mist provides even coverage in hard-to-reach areas without causing sting or heat.</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0719/8320/2419/files/spp_shopify20260911184328_7ec477f6625738335489ea9d4d18be76.jpg?v=1789123412\"></p>\n<p><strong><span style=\"color: #e67e23;\">SPEC</span></strong></p>\n<p>Color: White</p>\n<p>Net Capacity: 100ml (3.38 fl oz)</p>\n<p>Size: 3.8cm x 14.8cm (1.5 inches x 5.8 inches)</p>\n<p>Weight: 146g (5.15 oz)</p>\n<p><strong><span style=\"color: #e67e23;\">PACKAGE INCLUDES</span></strong></p>\n<p>1 x Painless Hair Removal Spray for Smooth Silky Skin</p>\n<p><strong><span style=\"color: #e67e23;\">NOTES</span></strong></p>\n<p>Please perform a patch test on a small area of skin before first use to check for sensitivity.</p>\n<p>Do not use on irritated, sunburned, or broken skin.</p>",
+  "published_at": "2026-09-18T08:52:08Z",
+  "created_at": "2026-09-18T08:52:09Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "Hot sale",
+  "tags": [
+   "kaching多送wd"
+  ],
+  "variants": [
+   {
+    "id": 46537975038009,
+    "title": "🔥Buy 1 Get 1 Free",
+    "option1": "🔥Buy 1 Get 1 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A02-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41252805804089,
+     "product_id": 8457184051257,
+     "position": 10,
+     "created_at": "2026-09-18T08:52:09Z",
+     "updated_at": "2026-09-18T08:52:11Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184354_cb2d58fa6b4f7d9611257917a7bc9a0f_e6b38737-c307-48b0-a328-f630d5405ebc.jpg?v=1789721531",
+     "variant_ids": [
+      46537975038009
+     ]
+    },
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 1,
+    "product_id": 8457184051257,
+    "created_at": "2026-09-18T08:52:09Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 48929035386937,
+    "title": "🔥Buy 2 Get 2 Free",
+    "option1": "🔥Buy 2 Get 2 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A02-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 2,
+    "product_id": 8457184051257,
+    "created_at": "2026-09-19T12:50:58Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 48929035419705,
+    "title": "🔥Buy 3 Get 3 Free",
+    "option1": "🔥Buy 3 Get 3 Free",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A02-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "62.49",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 3,
+    "product_id": 8457184051257,
+    "created_at": "2026-09-19T12:50:58Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41252805509177,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 1,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184335_93516bd25be373ea3419c0fced33803f_b9eeb859-09ba-4d6c-bfa5-4b455e33f3cf.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805541945,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 2,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184337_fb845e2f5ec98e62228be823256af432_c0181346-e64c-4677-b317-f0d9c9727b0d.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41253307809849,
+    "created_at": "2026-09-18T09:12:39Z",
+    "position": 3,
+    "updated_at": "2026-09-18T09:12:40Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184339_32627ec529788e94125a494248d8e2b4_e089fdd8-42e4-4fe3-b1fd-7fa311d1e164_1_1.jpg?v=1789722760",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805607481,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 4,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184342_b2ae1386d5b6ef5a30fab584ba05d6ac_e6c23359-3092-41c4-bb38-3aaabf410324.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805640249,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 5,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184342_d7b369d8b9b95973601b13296f2b97d3_23ec15c3-997f-4567-aa91-7b073deb267d.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805673017,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 6,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184345_dfb0223df3c598c7dfbeaa8ea447bc2a_4bc11e75-d13c-410a-b54a-6e042d949ea0.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805705785,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 7,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184347_f4490b9b6e5f59632d42d38abdc1d95e_b7d529e5-7858-4551-b82a-e1fb0e4b7ddc.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805738553,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 8,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184349_23b20c0c12c064b693995926a85b1688_7791603b-f1fc-4d02-b237-eefd591faed9.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805771321,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 9,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184352_4d02ccdefdc923dd6d4ce015970f58bf_afed43fa-b183-4939-8651-c9a593d3d188.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41252805804089,
+    "created_at": "2026-09-18T08:52:09Z",
+    "position": 10,
+    "updated_at": "2026-09-18T08:52:11Z",
+    "product_id": 8457184051257,
+    "variant_ids": [
+     46537975038009
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260911184354_cb2d58fa6b4f7d9611257917a7bc9a0f_e6b38737-c307-48b0-a328-f630d5405ebc.jpg?v=1789721531",
+    "width": 800,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "qty",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free",
+     "🔥Buy 2 Get 2 Free",
+     "🔥Buy 3 Get 3 Free"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454657409081,
+  "title": "🔥🎨Waterproof Brow Tint – Peel‑off, easy apply. Covers greys, shapes perfectly.🌟",
+  "handle": "🔥🎨waterproof-brow-tint-peel-off-easy-apply-covers-greys-shapes-perfectly-🌟",
+  "body_html": "<p></p>",
+  "published_at": "2026-09-17T14:43:37Z",
+  "created_at": "2026-09-17T14:43:37Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530604105785,
+    "title": "Warm brown",
+    "option1": "Warm brown",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A05-棕色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234638307385,
+     "product_id": 8454657409081,
+     "position": 9,
+     "created_at": "2026-09-17T14:43:37Z",
+     "updated_at": "2026-09-17T14:43:40Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/15_268e0473-27db-459b-a2eb-164b4d380abd.png?v=1789656220",
+     "variant_ids": [
+      46530604105785
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 8454657409081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604138553,
+    "title": "Espresso",
+    "option1": "Espresso",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A05-咖啡色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234638340153,
+     "product_id": 8454657409081,
+     "position": 10,
+     "created_at": "2026-09-17T14:43:37Z",
+     "updated_at": "2026-09-17T14:43:40Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/14_f54f292e-12cb-4a90-9f54-6e3520dfc6d7.png?v=1789656220",
+     "variant_ids": [
+      46530604138553
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 8454657409081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604171321,
+    "title": "Taupe",
+    "option1": "Taupe",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A05- 灰色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234638372921,
+     "product_id": 8454657409081,
+     "position": 11,
+     "created_at": "2026-09-17T14:43:37Z",
+     "updated_at": "2026-09-17T14:43:40Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/12_162daa0c-9e11-44d2-b3b4-2da73fa23442.png?v=1789656220",
+     "variant_ids": [
+      46530604171321
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 8454657409081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604204089,
+    "title": "Chocolate",
+    "option1": "Chocolate",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A05- 巧克力色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234638405689,
+     "product_id": 8454657409081,
+     "position": 12,
+     "created_at": "2026-09-17T14:43:37Z",
+     "updated_at": "2026-09-17T14:43:40Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/11_cc28d2e8-b79a-47f0-86c8-4ba57f5d9fc0.png?v=1789656220",
+     "variant_ids": [
+      46530604204089
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 4,
+    "product_id": 8454657409081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604236857,
+    "title": "Black",
+    "option1": "Black",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A05-黑色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234638438457,
+     "product_id": 8454657409081,
+     "position": 13,
+     "created_at": "2026-09-17T14:43:37Z",
+     "updated_at": "2026-09-17T14:43:40Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/13_c5a2e583-fe66-4361-94d1-cbae81a313a3.png?v=1789656220",
+     "variant_ids": [
+      46530604236857
+     ]
+    },
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 5,
+    "product_id": 8454657409081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234638045241,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/8_ddf37c2d-8d2e-4d1e-82e4-c9d54689bbd5.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638078009,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_e73ce2ec-4a20-48a0-a49b-32ac884e0bde.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638110777,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/5_592e2ba7-190d-40ba-a00d-71fa161b18f4.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638143545,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/10_5b973be2-7b0f-49e8-a357-a8d1e6a22edb.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638176313,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/7_cbf365e0-f3ae-44e3-a2ba-d2fb052061cb.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638209081,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/3_89d4d5a9-6b87-48cb-8d4d-139f5be36d17.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638241849,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/6_c88a7780-7423-4cc2-acb9-bb0123716708.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638274617,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/4_56e8c09c-c3f1-4817-8d06-9d9d56dc18a6.png?v=1789656220",
+    "width": 1200,
+    "height": 1200
+   },
+   {
+    "id": 41234638307385,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [
+     46530604105785
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/15_268e0473-27db-459b-a2eb-164b4d380abd.png?v=1789656220",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234638340153,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 10,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [
+     46530604138553
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/14_f54f292e-12cb-4a90-9f54-6e3520dfc6d7.png?v=1789656220",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234638372921,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 11,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [
+     46530604171321
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/12_162daa0c-9e11-44d2-b3b4-2da73fa23442.png?v=1789656220",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234638405689,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 12,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [
+     46530604204089
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/11_cc28d2e8-b79a-47f0-86c8-4ba57f5d9fc0.png?v=1789656220",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234638438457,
+    "created_at": "2026-09-17T14:43:37Z",
+    "position": 13,
+    "updated_at": "2026-09-17T14:43:40Z",
+    "product_id": 8454657409081,
+    "variant_ids": [
+     46530604236857
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/13_c5a2e583-fe66-4361-94d1-cbae81a313a3.png?v=1789656220",
+    "width": 1254,
+    "height": 1254
+   }
+  ],
+  "options": [
+   {
+    "name": "Color",
+    "position": 1,
+    "values": [
+     "Warm brown",
+     "Espresso",
+     "Taupe",
+     "Chocolate",
+     "Black"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454657343545,
+  "title": "🎉Halloween Sale Over 35k+ Sold!💅🎨24‑Colors Dual‑Ended Nail Art Pens‑DIY Manicure Drawing Set🎁",
+  "handle": "nail-art-pens-set-1",
+  "body_html": "",
+  "published_at": "2026-09-17T14:43:36Z",
+  "created_at": "2026-09-17T14:43:36Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "ÃÀױ&»¤Àí",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530603974713,
+    "title": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option1": "🔥Buy 1 Get 1 Free ( 2PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A01-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234637815865,
+     "product_id": 8454657343545,
+     "position": 12,
+     "created_at": "2026-09-17T14:43:36Z",
+     "updated_at": "2026-09-17T14:43:38Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+     "variant_ids": [
+      46530603974713,
+      46530604007481,
+      46530604040249
+     ]
+    },
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 8454657343545,
+    "created_at": "2026-09-17T14:43:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604007481,
+    "title": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option1": "🔥Buy 2 Get 2 Free ( 4PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A01-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234637815865,
+     "product_id": 8454657343545,
+     "position": 12,
+     "created_at": "2026-09-17T14:43:36Z",
+     "updated_at": "2026-09-17T14:43:38Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+     "variant_ids": [
+      46530603974713,
+      46530604007481,
+      46530604040249
+     ]
+    },
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 8454657343545,
+    "created_at": "2026-09-17T14:43:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530604040249,
+    "title": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option1": "🔥Buy 3 Get 3 Free ( 6PC)",
+    "option2": null,
+    "option3": null,
+    "sku": "g8zfisyh-A01-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234637815865,
+     "product_id": 8454657343545,
+     "position": 12,
+     "created_at": "2026-09-17T14:43:36Z",
+     "updated_at": "2026-09-17T14:43:38Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+     "variant_ids": [
+      46530603974713,
+      46530604007481,
+      46530604040249
+     ]
+    },
+    "available": true,
+    "price": "59.98",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 8454657343545,
+    "created_at": "2026-09-17T14:43:36Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234637455417,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_462e130def66a60d8ff6c5256f6125dd_d37a41af-f33e-42f5-bca6-87899289436a.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637488185,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_da9306fddd202e6cef372ca5801fe4e0_af157945-ac86-4ccb-adf4-a23a0d3788e0.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637520953,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_3cb4325c239f576b38d500cebdb02f7c_04967ba5-0bdf-4601-b4bf-668776b3d0d6.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637553721,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_67731ad3ba7daf8604bc5ce416b34235_8ccff46b-e536-4f6f-8e88-90f415a6e8bf.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637586489,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4bc2b582bd636fb6ac41849a0d9b1d0b_ffaaa977-ff21-4962-8d7c-949b78d037ef.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637619257,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_28c932981596c8df32857cb870835b1f_32a7132c-2068-45e2-ba70-1892a6f70d2d.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637652025,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_b0bf57666087f6ed2097af214fb6810e_fdaa0693-5aee-4810-889f-22d9991914ae.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637684793,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_6aeaeb284fec33b244731d80a8e379e2_24a51eae-6f00-4ae4-8bd8-a74f7622aaf1.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637717561,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4ac477752a7ef0aad50495b818edf707_752d3df9-6f7d-487a-8cc6-53d1c8983612.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637750329,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 10,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_d6c85918013c423487e35e7e38d1001c_6d4f30ca-e1fb-417e-ad90-3c880b1d5a29.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637783097,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 11,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_4e733d3cb405192776ee47ab81578d7b_f0f2c01c-cb1b-4c3c-96c7-8a8c14fc5fee.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234637815865,
+    "created_at": "2026-09-17T14:43:36Z",
+    "position": 12,
+    "updated_at": "2026-09-17T14:43:38Z",
+    "product_id": 8454657343545,
+    "variant_ids": [
+     46530603974713,
+     46530604007481,
+     46530604040249
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260826145051_dad2cd355e3f309598de4697f719e235_ae578f62-8993-40fb-921f-f8d3ddf20243.jpg?v=1789656218",
+    "width": 800,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "QTY💥Buy More Save More💥",
+    "position": 1,
+    "values": [
+     "🔥Buy 1 Get 1 Free ( 2PC)",
+     "🔥Buy 2 Get 2 Free ( 4PC)",
+     "🔥Buy 3 Get 3 Free ( 6PC)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454657278009,
+  "title": "🔥Final 3 hours 70% off✨Perfect Complexion Express Matte Cream",
+  "handle": "perfect-complexion-express-matte-cream-1",
+  "body_html": "<style>  .pc-foundation-page {    --bg: #ffffff;    --soft-bg: #faf8fb;    --soft-bg-2: #f6f2f7;    --text: #242124;    --muted: #6f6870;    --line: #e8e1e9;    --accent: #6f5475;    --accent-soft: #efe8f1;    --shadow: 0 8px 28px rgba(44, 30, 48, 0.07);    width: 100%;    max-width: 980px;    margin: 0 auto;    padding: 0 8px 24px;    box-sizing: border-box;    background: var(--bg);    color: var(--text);    font-family:      -apple-system,      BlinkMacSystemFont,      \"Segoe UI\",      Roboto,      Helvetica,      Arial,      sans-serif;    line-height: 1.65;  }  .pc-foundation-page,  .pc-foundation-page * {    box-sizing: border-box;  }  .pc-foundation-page img {    display: block;    width: 100%;    height: auto;    margin: 18px 0 0;    border-radius: 18px;    border: 1px solid rgba(111, 84, 117, 0.10);    box-shadow: var(--shadow);  }  .pc-section {    width: 100%;    margin: 0 0 16px;    padding: 26px 20px 20px;    border: 1px solid var(--line);    border-radius: 20px;    background: #ffffff;    overflow: hidden;  }  .pc-section.pc-hero {    padding-top: 28px;    background:      linear-gradient(        180deg,        #fbf8fc 0%,        #ffffff 58%      );    border-color: #e7ddea;  }  .pc-section.pc-soft {    background: var(--soft-bg);  }  .pc-section.pc-feature-section {    background:      linear-gradient(        180deg,        #ffffff 0%,        #faf8fb 100%      );  }  .pc-foundation-page h3 {    margin: 0 0 12px;    padding: 0 0 11px;    color: var(--text);    font-size: 27px;    line-height: 1.17;    font-weight: 800;    letter-spacing: -0.02em;    border-bottom: 1px solid var(--line);  }  .pc-foundation-page h3::before {    content: \"\";    display: block;    width: 42px;    height: 4px;    margin-bottom: 12px;    border-radius: 99px;    background: var(--accent);  }  .pc-foundation-page p {    margin: 0;    color: var(--muted);    font-size: 17px;    line-height: 1.72;    letter-spacing: 0;  }  .pc-foundation-page p strong {    color: var(--text);    font-weight: 700;  }  .pc-hero p strong {    display: block;    margin-top: 8px;    color: var(--accent);    font-size: 18px;    line-height: 1.55;  }  .pc-feature-list {    width: 100%;    margin: 14px 0 0;    padding: 0;  }  .pc-feature-card {    width: 100%;    margin: 0 0 10px;    padding: 17px 16px;    border: 1px solid var(--line);    border-radius: 14px;    background: #ffffff;  }  .pc-feature-card:last-child {    margin-bottom: 0;  }  .pc-feature-card strong {    display: block;    margin: 0 0 4px;    color: var(--text);    font-size: 18px;    line-height: 1.35;    font-weight: 750;  }  .pc-feature-card span {    display: block;    color: var(--muted);    font-size: 16px;    line-height: 1.6;  }  .pc-feature-image {    margin-top: 18px;  }  .pc-final {    text-align: left;    background:      linear-gradient(        180deg,        #f7f1f8 0%,        #ffffff 100%      );    border-color: #dfd1e2;  }  .pc-final h3 {    color: #332b35;  }  .pc-product-name {    display: block;    margin-top: 4px;    color: var(--text);    font-size: 20px;    line-height: 1.45;  }  .pc-product-tagline {    display: block;    margin-top: 4px;    color: var(--accent);    font-size: 16px;    line-height: 1.5;    font-weight: 650;  }  /* =====================================================     180-DAY GUARANTEE     ===================================================== */  .pc-guarantee {    position: relative;    width: 100%;    margin-bottom: 0;    padding: 30px 22px 26px;    text-align: center;    border: 1px solid #ddd0e1;    border-radius: 20px;    background:      linear-gradient(        180deg,        #faf6fb 0%,        #ffffff 100%      );    overflow: hidden;  }  .pc-guarantee::before {    content: \"\";    position: absolute;    top: 0;    left: 50%;    width: 90px;    height: 4px;    transform: translateX(-50%);    border-radius: 0 0 99px 99px;    background: var(--accent);  }  .pc-guarantee-badge {    display: flex;    justify-content: center;    align-items: center;    width: 100%;    margin: 0 0 15px;  }  .pc-foundation-page .pc-guarantee-badge img {    width: 150px;    max-width: 38%;    height: auto;    margin: 0;    border: 0;    border-radius: 0;    background: transparent;    box-shadow: none;  }  .pc-guarantee h3 {    margin: 0 0 10px;    padding: 0;    color: var(--text);    font-size: 25px;    line-height: 1.2;    font-weight: 800;    letter-spacing: -0.02em;    text-align: center;    border: 0;  }  .pc-guarantee h3::before {    display: none;  }  .pc-guarantee p {    width: 100%;    max-width: 680px;    margin: 0 auto;    color: var(--muted);    font-size: 16px;    line-height: 1.58;    text-align: center;  }  .pc-guarantee-highlight {    display: block;    margin-top: 8px;    color: var(--text);    font-size: 16px;    line-height: 1.45;    font-weight: 700;  }  /* 防止 Shopify 主题添加异常外边距 */  .pc-foundation-page h3:first-child,  .pc-foundation-page p:first-child {    margin-top: 0;  }  /* =====================================================     MOBILE     ===================================================== */  @media screen and (max-width: 749px) {    .pc-foundation-page {      max-width: 100%;      padding-left: 3px;      padding-right: 3px;      padding-bottom: 16px;    }    .pc-section {      margin-bottom: 10px;      padding: 21px 13px 14px;      border-radius: 15px;    }    .pc-section.pc-hero {      padding-top: 23px;    }    .pc-foundation-page h3 {      margin-bottom: 10px;      padding-bottom: 9px;      font-size: 22px;      line-height: 1.2;      letter-spacing: -0.015em;    }    .pc-foundation-page h3::before {      width: 34px;      height: 4px;      margin-bottom: 10px;    }    .pc-foundation-page p {      font-size: 16px;      line-height: 1.67;    }    .pc-hero p strong {      font-size: 16px;      line-height: 1.55;    }    .pc-foundation-page img {      margin-top: 14px;      border-radius: 13px;    }    .pc-feature-list {      margin-top: 12px;    }    .pc-feature-card {      margin-bottom: 8px;      padding: 14px 13px;      border-radius: 12px;    }    .pc-feature-card strong {      font-size: 17px;    }    .pc-feature-card span {      font-size: 15px;      line-height: 1.55;    }    .pc-product-name {      font-size: 18px;    }    .pc-product-tagline {      font-size: 15px;    }    /* Guarantee mobile */    .pc-guarantee {      margin-bottom: 0;      padding:        24px        14px        21px;      border-radius: 15px;    }    .pc-guarantee::before {      width: 70px;      height: 4px;    }    .pc-guarantee-badge {      margin-bottom: 12px;    }    .pc-foundation-page .pc-guarantee-badge img {      width: 126px;      max-width: 42%;      margin: 0;      border-radius: 0;    }    .pc-guarantee h3 {      margin-bottom: 8px;      padding: 0;      font-size: 21px;      line-height: 1.2;    }    .pc-guarantee p {      max-width: 100%;      font-size: 15px;      line-height: 1.5;    }    .pc-guarantee-highlight {      margin-top: 7px;      font-size: 15px;      line-height: 1.4;    }  }  /* =====================================================     DESKTOP     ===================================================== */  @media screen and (min-width: 750px) {    .pc-foundation-page {      padding-left: 10px;      padding-right: 10px;    }    .pc-section {      padding-left: 28px;      padding-right: 28px;    }    .pc-guarantee {      padding-left: 32px;      padding-right: 32px;    }  }</style><div class=\"pc-foundation-page\">\n<!-- HERO --><section class=\"pc-section pc-hero\"><h3>YOUR SKIN, JUST MORE POLISHED<img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/0831_1.gif?v=1788183529\" alt=\"\">\n</h3>\n<p>Meet the cream foundation that brings everything together: smooth-looking skin, beautifully even coverage, and a soft matte finish that still looks natural. <strong> Full coverage where you want it. A fresh, refined complexion everywhere else. </strong> <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/61J1QV9OSNL._AC_SL1024.jpg?v=1786719221\" alt=\"\" loading=\"lazy\"></p></section><!-- FLAWLESS --><section class=\"pc-section\"><h3>FLAWLESS WITHOUT LOOKING “MADE UP”</h3>\n<p>The creamy formula blends seamlessly into skin, softening the look of redness, dark spots, pores, and everyday imperfections without leaving your complexion looking flat or overly covered.The finish is smooth, natural, and polished—like your skin on a really good day.<img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/0831.gif?v=1788183530\" alt=\"\"></p></section><!-- MATTE --><section class=\"pc-section pc-soft\"><h3>SMOOTH. EVEN. BEAUTIFULLY MATTE.</h3>\n<p>Get that freshly-applied look without the heavy finish.The lightweight texture helps blur the appearance of pores and fine lines while controlling unwanted shine for a clean, soft-matte complexion.No thick, cakey look. No uncomfortable mask-like feel.Just beautifully balanced skin. <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/81IDOPELhoL._AC_SL1500.jpg?v=1786719221\" alt=\"\" loading=\"lazy\"></p></section><!-- BUILDABLE --><section class=\"pc-section\"><h3>COVERAGE THAT WORKS WITH YOU</h3>\n<p>Some days call for a little. Others call for more.The buildable formula lets you customize your coverage while keeping the finish natural. Apply a light layer to even out your complexion, then build where you want extra coverage.The result stays refined—not overloaded. <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/DD0E3DE0-0497-4829-B250-9FC9BDCE62AF.jpg?v=1786711370\" alt=\"\" loading=\"lazy\"></p></section><!-- REAL DAYS --><section class=\"pc-section pc-soft\"><h3>MADE FOR REAL DAYS</h3>\n<p>Hot afternoon? Busy schedule? Workout on the calendar?The water- and sweat-resistant formula is made to stay put through the moments that usually challenge your makeup.Less worrying about your foundation. More enjoying your day. <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/C1453E08-208B-48BC-AC8F-6A6E5547AF0B.png?v=1786711371\" alt=\"\" loading=\"lazy\"></p></section><!-- COMFORT --><section class=\"pc-section\"><h3>COMFORT YOU CAN FEEL</h3>\n<p>High coverage doesn’t have to feel heavy.The silky cream texture melts comfortably into skin and feels breathable throughout the day, giving you the coverage you want without sacrificing comfort.Suitable for dry, oily, combination, and sensitive skin. <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/71gHgfeWMgL._AC_SL1500.jpg?v=1786719853\" alt=\"\" loading=\"lazy\"></p></section><!-- KEY BENEFITS --><section class=\"pc-section pc-feature-section\"><h3>ONE FOUNDATION. YOUR PERFECT FINISH.</h3>\n<div class=\"pc-feature-list\">\n<div class=\"pc-feature-card\">\n<strong>Full Coverage</strong> <span> Visibly evens the complexion and helps conceal redness, spots, and imperfections. </span>\n</div>\n<div class=\"pc-feature-card\">\n<strong>Soft-Matte Finish</strong> <span> Controls unwanted shine while keeping skin looking fresh and natural. </span>\n</div>\n<div class=\"pc-feature-card\">\n<strong>Blurring Effect</strong> <span> Softens the appearance of pores and fine lines for a smoother-looking complexion. </span>\n</div>\n</div>\n<div class=\"pc-feature-image\"><img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/719PB6RBksL._AC_SL1500.jpg?v=1786719855\" alt=\"\" loading=\"lazy\"></div>\n<div class=\"pc-feature-list\">\n<div class=\"pc-feature-card\">\n<strong>Lightweight Feel</strong> <span> Creamy, comfortable coverage without the heavy, cakey sensation. </span>\n</div>\n<div class=\"pc-feature-card\">\n<strong>Water + Sweat Resistant</strong> <span> Designed to keep your makeup looking polished through heat, humidity, and active days. </span>\n</div>\n<div class=\"pc-feature-card\">\n<strong>Buildable Coverage</strong> <span> Go from naturally even to fuller coverage without losing that skin-like finish. </span>\n</div>\n</div>\n<div class=\"pc-feature-image\"><img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/71rdyXuH8kL._AC_SL1024.jpg?v=1786719852\" alt=\"\" loading=\"lazy\"></div></section><!-- FINAL MESSAGE --><section class=\"pc-section pc-final\"><h3>BEAUTIFUL SKIN SHOULDN’T FEEL COMPLICATED</h3>\n<p>Blend it in. Build where needed. Go.A smooth, even, confidently polished complexion—without spending your day checking the mirror. <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/714-5nSfaIL._AC_SL1500.jpg?v=1786719853\" alt=\"\" loading=\"lazy\"></p></section><!-- PRODUCT SIGN-OFF --><section class=\"pc-section\"><p><strong class=\"pc-product-name\"> Perfect Complexion Express Matte Cream </strong> <span class=\"pc-product-tagline\"> Full coverage. Soft matte. Naturally you. </span> <img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/025EC8FA-57B7-44AD-9C88-1A5B542FEF7D.webp?v=1786711370\" alt=\"\" loading=\"lazy\"></p></section><!-- 180-DAY GUARANTEE --><section class=\"pc-guarantee\"><div class=\"pc-guarantee-badge\"><img src=\"https://cdn.shopify.com/s/files/1/0695/9215/4221/files/guarantee-badge-180-days-2.png?v=1786736282\" alt=\"180 Day Money Back Guarantee\" loading=\"lazy\" width=\"234\" height=\"232\"></div>\n<h3>180-DAY MONEY-BACK GUARANTEE</h3>\n<p>Try it with confidence. If you’re not completely satisfied with your purchase, you’re covered by our 180-day money-back guarantee. <span class=\"pc-guarantee-highlight\"> More time to try it. More confidence in your purchase. </span></p></section>\n</div>",
+  "published_at": "2026-09-17T14:43:34Z",
+  "created_at": "2026-09-17T14:43:34Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530603843641,
+    "title": "Ivory",
+    "option1": "Ivory",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A04-象牙白",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234637291577,
+     "product_id": 8454657278009,
+     "position": 8,
+     "created_at": "2026-09-17T14:43:35Z",
+     "updated_at": "2026-09-17T14:43:37Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/01_Ivory.png?v=1789656217",
+     "variant_ids": [
+      46530603843641
+     ]
+    },
+    "available": true,
+    "price": "24.98",
+    "grams": 0,
+    "compare_at_price": "0.00",
+    "position": 1,
+    "product_id": 8454657278009,
+    "created_at": "2026-09-17T14:43:35Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603876409,
+    "title": "Natural",
+    "option1": "Natural",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A04-自然色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234637324345,
+     "product_id": 8454657278009,
+     "position": 9,
+     "created_at": "2026-09-17T14:43:35Z",
+     "updated_at": "2026-09-17T14:43:37Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/04_Beige.png?v=1789656217",
+     "variant_ids": [
+      46530603876409
+     ]
+    },
+    "available": true,
+    "price": "24.98",
+    "grams": 0,
+    "compare_at_price": "0.00",
+    "position": 2,
+    "product_id": 8454657278009,
+    "created_at": "2026-09-17T14:43:35Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603909177,
+    "title": "Rich Tan",
+    "option1": "Rich Tan",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A04-深肤色",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234637357113,
+     "product_id": 8454657278009,
+     "position": 10,
+     "created_at": "2026-09-17T14:43:35Z",
+     "updated_at": "2026-09-17T14:43:37Z",
+     "alt": null,
+     "width": 1254,
+     "height": 1254,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/06_Rich_Tan.png?v=1789656217",
+     "variant_ids": [
+      46530603909177
+     ]
+    },
+    "available": true,
+    "price": "24.98",
+    "grams": 0,
+    "compare_at_price": "0.00",
+    "position": 3,
+    "product_id": 8454657278009,
+    "created_at": "2026-09-17T14:43:35Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234637062201,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_8_31_19_43_34.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637094969,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/C1453E08-208B-48BC-AC8F-6A6E5547AF0B.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637127737,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_8_31_20_55_33.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637160505,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/ChatGPT_Image_2026_8_31_20_59_11.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637193273,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/DD0E3DE0-0497-4829-B250-9FC9BDCE62AF.jpg?v=1789656217",
+    "width": 1254,
+    "height": 1085
+   },
+   {
+    "id": 41234637226041,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/8BBD7999-9096-49F6-8545-E8B76E45398D.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637258809,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:36Z",
+    "product_id": 8454657278009,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/025EC8FA-57B7-44AD-9C88-1A5B542FEF7D.webp?v=1789656216",
+    "width": 500,
+    "height": 500
+   },
+   {
+    "id": 41234637291577,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [
+     46530603843641
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/01_Ivory.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637324345,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [
+     46530603876409
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/04_Beige.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234637357113,
+    "created_at": "2026-09-17T14:43:35Z",
+    "position": 10,
+    "updated_at": "2026-09-17T14:43:37Z",
+    "product_id": 8454657278009,
+    "variant_ids": [
+     46530603909177
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/06_Rich_Tan.png?v=1789656217",
+    "width": 1254,
+    "height": 1254
+   }
+  ],
+  "options": [
+   {
+    "name": "color",
+    "position": 1,
+    "values": [
+     "Ivory",
+     "Natural",
+     "Rich Tan"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454656786489,
+  "title": "Reusable Self-Adhesive False Eyelashes 🔥",
+  "handle": "reusable-self-adhesive-false-eyelashes",
+  "body_html": "<p><br></p>",
+  "published_at": "2026-09-17T14:43:24Z",
+  "created_at": "2026-09-17T14:43:25Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "newbeew",
+  "product_type": "Beauty Tools",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530602926137,
+    "title": "Mixed / 3 Pairs",
+    "option1": "Mixed",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Mixed",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635685945,
+     "product_id": 8454656786489,
+     "position": 8,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/5010c67e6e5b7df3f89a183e656c042b.webp?v=1789656207",
+     "variant_ids": [
+      46530602926137
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 1,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602958905,
+    "title": "Natural / 3 Pairs",
+    "option1": "Natural",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Natural",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635522105,
+     "product_id": 8454656786489,
+     "position": 3,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/nat.webp?v=1789656207",
+     "variant_ids": [
+      46530602958905
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 2,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602991673,
+    "title": "Fairy / 3 Pairs",
+    "option1": "Fairy",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Fairy",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635489337,
+     "product_id": 8454656786489,
+     "position": 2,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/fa.webp?v=1789656207",
+     "variant_ids": [
+      46530602991673
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 3,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603024441,
+    "title": "Sparse / 3 Pairs",
+    "option1": "Sparse",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Sparse",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635554873,
+     "product_id": 8454656786489,
+     "position": 4,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/sp.webp?v=1789656207",
+     "variant_ids": [
+      46530603024441
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 4,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603057209,
+    "title": "Black-Purple Long / 3 Pairs",
+    "option1": "Black-Purple Long",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Black-Purple Long",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635653177,
+     "product_id": 8454656786489,
+     "position": 7,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/1eceaa3a1d095930b6089560cdd8d69f.webp?v=1789656207",
+     "variant_ids": [
+      46530603057209
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 5,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603089977,
+    "title": "Black Long / 3 Pairs",
+    "option1": "Black Long",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Black Long",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635587641,
+     "product_id": 8454656786489,
+     "position": 5,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/BLACK_long.webp?v=1789656207",
+     "variant_ids": [
+      46530603089977
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 6,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530603122745,
+    "title": "Thick / 3 Pairs",
+    "option1": "Thick",
+    "option2": "3 Pairs",
+    "option3": null,
+    "sku": "1puwscbp-A13-Thick",
+    "requires_shipping": true,
+    "taxable": false,
+    "featured_image": {
+     "id": 41234635620409,
+     "product_id": 8454656786489,
+     "position": 6,
+     "created_at": "2026-09-17T14:43:25Z",
+     "updated_at": "2026-09-17T14:43:27Z",
+     "alt": null,
+     "width": 1100,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/thick.webp?v=1789656207",
+     "variant_ids": [
+      46530603122745
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "30.00",
+    "position": 7,
+    "product_id": 8454656786489,
+    "created_at": "2026-09-17T14:43:25Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234635456569,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/imgi_3_2763a7b1-image-3.jpg?v=1789656207",
+    "width": 1302,
+    "height": 1173
+   },
+   {
+    "id": 41234635489337,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530602991673
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/fa.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635522105,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530602958905
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/nat.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635554873,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530603024441
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/sp.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635587641,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530603089977
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/BLACK_long.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635620409,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530603122745
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/thick.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635653177,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530603057209
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/1eceaa3a1d095930b6089560cdd8d69f.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   },
+   {
+    "id": 41234635685945,
+    "created_at": "2026-09-17T14:43:25Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:27Z",
+    "product_id": 8454656786489,
+    "variant_ids": [
+     46530602926137
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/5010c67e6e5b7df3f89a183e656c042b.webp?v=1789656207",
+    "width": 1100,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "Style",
+    "position": 1,
+    "values": [
+     "Mixed",
+     "Natural",
+     "Fairy",
+     "Sparse",
+     "Black-Purple Long",
+     "Black Long",
+     "Thick"
+    ]
+   },
+   {
+    "name": "Quantity",
+    "position": 2,
+    "values": [
+     "3 Pairs"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454656720953,
+  "title": "Luminous Chrome Gel Eyeliner",
+  "handle": "eyeliner-pencil",
+  "body_html": "<p></p>",
+  "published_at": "2026-09-17T14:43:23Z",
+  "created_at": "2026-09-17T14:43:23Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "Tryyvexa",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530602696761,
+    "title": "Rose Aura",
+    "option1": "Rose Aura",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Rose Aura",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 1,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602729529,
+    "title": "Golden Hour",
+    "option1": "Golden Hour",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Golden Hour",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 2,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602762297,
+    "title": "Emerald Dream",
+    "option1": "Emerald Dream",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Emerald Dream",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 3,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602795065,
+    "title": "Aqua Flash",
+    "option1": "Aqua Flash",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Aqua Flash",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 4,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602827833,
+    "title": "Ocean Spark",
+    "option1": "Ocean Spark",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Ocean Spark",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 5,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602860601,
+    "title": "Cosmic Purple",
+    "option1": "Cosmic Purple",
+    "option2": null,
+    "option3": null,
+    "sku": "vzwz8ehx-A09-Cosmic Purple",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "24.99",
+    "grams": 0,
+    "compare_at_price": null,
+    "position": 6,
+    "product_id": 8454656720953,
+    "created_at": "2026-09-17T14:43:23Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234634768441,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/22da6740-141f-4e40-8c6f-ecc354582576.png?v=1789656206",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634801209,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/f0cec962-e8ad-40bb-ba6e-ebf613b82d75.png?v=1789656206",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634833977,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/d493aba3-79b3-4a3d-bb92-678ec71671e3.png?v=1789656206",
+    "width": 1214,
+    "height": 1295
+   },
+   {
+    "id": 41234634866745,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/3ee33c25-378f-42d6-9f91-abb7bd807757.png?v=1789656206",
+    "width": 1448,
+    "height": 1086
+   },
+   {
+    "id": 41234634899513,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/1252be95-fe19-40be-9795-81174156e89e.png?v=1789656206",
+    "width": 1312,
+    "height": 1199
+   },
+   {
+    "id": 41234634932281,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/76d08851-d822-44c7-90c8-845cb6be1835.png?v=1789656206",
+    "width": 1579,
+    "height": 996
+   },
+   {
+    "id": 41234634965049,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/74806bc2-ff37-473b-982f-9260f9661bed.png?v=1789656206",
+    "width": 1578,
+    "height": 996
+   },
+   {
+    "id": 41234634997817,
+    "created_at": "2026-09-17T14:43:23Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:26Z",
+    "product_id": 8454656720953,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/c55c9080-bc6b-4591-b68e-261b12d4a496.png?v=1789656206",
+    "width": 1215,
+    "height": 1295
+   }
+  ],
+  "options": [
+   {
+    "name": "color",
+    "position": 1,
+    "values": [
+     "Rose Aura",
+     "Golden Hour",
+     "Emerald Dream",
+     "Aqua Flash",
+     "Ocean Spark",
+     "Cosmic Purple"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454656622649,
+  "title": "Instant Gray Coverage Hair Dye Comb for Men & Women",
+  "handle": "gray-hair-touch-up-comb",
+  "body_html": "<div style=\"max-width: 900px; margin: 0 auto; font-family: Arial,Helvetica,sans-serif; color: #111; line-height: 1.65;\">\n<section style=\"text-align: center; padding: 46px 20px; background: linear-gradient(135deg,#f7efe2,#fffdf8); border-radius: 22px;\"><p style=\"font-size: 14px; letter-spacing: 2px; text-transform: uppercase; color: #9a6a22; font-weight: 800; margin: 0 0 10px;\">🔥 55% OFF TODAY</p>\n<h1 style=\"font-size: 36px; line-height: 1.18; margin: 0 0 14px; color: #2b2118;\">✨ Instant Gray Coverage Hair Dye Comb</h1>\n<p style=\"font-size: 17px; color: #5f5145; margin: 0 auto; max-width: 720px;\">Cover visible gray hair at home with a simple comb applicator — no mixing, no salon visit, no messy bowl.</p>\n<img alt=\"Instant gray coverage hair dye comb\" style=\"width: 100%; border-radius: 18px; margin-top: 22px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/01_c8e7e083-5107-47de-95f0-06d6f8ac51e9.png?v=1783407688\"></section><section style=\"padding: 40px 18px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">😳 Gray Hair Giving Away Your Age?</h2>\n<p style=\"color: #555;\">Gray roots, sideburns and part lines can make your hair look older before you feel ready for it.</p>\n<p style=\"color: #555;\">Refresh your look with natural-looking color coverage from home.</p>\n<img alt=\"Before and after gray hair coverage\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/02_b5e03a90-48b3-4d04-a87d-3fea229019df.png?v=1783407687\"></section><section style=\"padding: 40px 18px; background: #f8f3ea; border-radius: 20px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">🪮 Comb &amp; Color At The Same Time</h2>\n<p style=\"color: #555;\">The built-in comb applicator helps spread color evenly through roots, sideburns and visible gray areas.</p>\n<ul style=\"color: #555; padding-left: 20px;\">\n<li>✅ Easy comb-through application</li>\n<li>✅ Better control around roots and edges</li>\n<li>✅ No separate brush or bowl needed</li>\n<li>✅ Great for quick home touch-ups</li>\n</ul>\n<img alt=\"Comb applicator hair dye system\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/03_acdef137-4b19-4e86-ae17-03301926e9d0.png?v=1783407689\"></section><section style=\"padding: 40px 18px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">✅ No Mixing. No Mess. No Stress.</h2>\n<p style=\"color: #555;\">Forget complicated bowls, brushes and guesswork. Just press, comb, wait and rinse.</p>\n<img alt=\"No mixing hair dye comb\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/0_1cda6769-13b9-4e78-8826-b5187a49e6e1.png?v=1783407685\"></section><section style=\"padding: 40px 18px; background: #f8f3ea; border-radius: 20px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">⏱️ Easy 4-Step Application</h2>\n<ol style=\"color: #555; padding-left: 20px;\">\n<li>\n<strong>Prepare:</strong> Pull off the lid and press until paste reaches the comb teeth.</li>\n<li>\n<strong>Apply:</strong> Comb through dry hair evenly for 10–20 minutes.</li>\n<li>\n<strong>Wait:</strong> Leave on for 30–40 minutes only.</li>\n<li>\n<strong>Rinse:</strong> Rinse thoroughly until water runs clear.</li>\n</ol>\n<img alt=\"Hair dye comb application steps\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/05_98667c59-cc18-4b44-ad35-9bb14d26de73.png?v=1783407677\"></section><section style=\"padding: 40px 18px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">🌿 Gentle Ammonia-Free Formula</h2>\n<p style=\"color: #555;\">A low-alkaline, ammonia-free formula for a gentler hair coloring experience compared with traditional dyes.</p>\n<img alt=\"Gentle ammonia free hair dye formula\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/06_71e393a6-e7fe-4d15-a235-5a4c343974d5.png?v=1783407685\"></section><section style=\"padding: 40px 18px; background: #f8f3ea; border-radius: 20px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">👩🦳👨🦳 Made For Men &amp; Women</h2>\n<p style=\"color: #555;\">Use it for roots, sideburns, part lines, gray strands and beard touch-ups. Ideal for quick color refreshes between salon visits.</p>\n<img alt=\"Hair dye comb for men and women\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/07_ec378033-c95a-4228-8f9e-c1091311f464.png?v=1783407688\"></section><section style=\"padding: 40px 18px;\"><h2 style=\"font-size: 28px; margin-bottom: 16px;\">✨ Why You’ll Love It</h2>\n<div style=\"display: grid; grid-template-columns: repeat(2,1fr); gap: 14px;\">\n<div style=\"background: #f8f3ea; padding: 18px; border-radius: 16px;\">🪮 <strong>Comb Applicator</strong><br><span style=\"color: #555;\">Apply color while combing.</span>\n</div>\n<div style=\"background: #f8f3ea; padding: 18px; border-radius: 16px;\">🚫 <strong>No Mixing Needed</strong><br><span style=\"color: #555;\">Ready-to-use design.</span>\n</div>\n<div style=\"background: #f8f3ea; padding: 18px; border-radius: 16px;\">🌿 <strong>Ammonia-Free</strong><br><span style=\"color: #555;\">Gentler coloring experience.</span>\n</div>\n<div style=\"background: #f8f3ea; padding: 18px; border-radius: 16px;\">🏠 <strong>Salon Look At Home</strong><br><span style=\"color: #555;\">Refresh your color anytime.</span>\n</div>\n</div></section><section style=\"padding: 40px 18px; background: #fff8ef; border-radius: 20px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">⚠️ Important Application Tips</h2>\n<ul style=\"color: #555; padding-left: 20px;\">\n<li>Do not wash hair 1–2 days before dyeing.</li>\n<li>Apply to dry, unwashed hair for better color absorption.</li>\n<li>Leave on for 30–40 minutes only.</li>\n<li>Do not heat the scalp or apply an overly thick layer.</li>\n<li>Always perform a skin allergy test 48 hours before use.</li>\n</ul>\n<img alt=\"Hair dye comb application tips\" style=\"width: 100%; border-radius: 18px; margin-top: 18px;\" src=\"https://cdn.shopify.com/s/files/1/0731/5016/9239/files/0.webp?v=1783407757\"></section><section style=\"padding: 40px 18px; background: #fafafa; border-radius: 20px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">📦 Product Details</h2>\n<table style=\"width: 100%; border-collapse: collapse; font-size: 16px; background: #fff; border-radius: 14px; overflow: hidden;\"><tbody>\n<tr>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\"><strong>Product Type</strong></td>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\">Dual-Color Hair Dye Comb</td>\n</tr>\n<tr>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\"><strong>Colors</strong></td>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\">Black / Brown</td>\n</tr>\n<tr>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\"><strong>Formula</strong></td>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\">Ammonia-Free, Low-Alkaline Formula</td>\n</tr>\n<tr>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\"><strong>Application</strong></td>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\">Comb Applicator</td>\n</tr>\n<tr>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\"><strong>Processing Time</strong></td>\n<td style=\"padding: 14px; border-bottom: 1px solid #ddd;\">30–40 Minutes</td>\n</tr>\n<tr>\n<td style=\"padding: 14px;\"><strong>Great For</strong></td>\n<td style=\"padding: 14px;\">Roots, Gray Hair, Sideburns, Part Lines, Beard Touch-Up</td>\n</tr>\n</tbody></table></section><section style=\"padding: 40px 18px;\"><h2 style=\"font-size: 28px; margin-bottom: 10px;\">❓ FAQ</h2>\n<p style=\"color: #555;\"><strong>How long should I leave it on?</strong><br>Leave the dye on for 30–40 minutes only.</p>\n<p style=\"color: #555;\"><strong>Should I wash my hair before using it?</strong><br>No. Apply to dry, unwashed hair.</p>\n<p style=\"color: #555;\"><strong>Can men use it?</strong><br>Yes. It can be used for roots, sideburns and beard touch-ups.</p>\n<p style=\"color: #555;\"><strong>Do I need a patch test?</strong><br>Yes. Always perform a skin sensitivity test 48 hours before use.</p></section><section style=\"text-align: center; padding: 50px 22px; background: linear-gradient(135deg,#2b2118,#b8893b); color: #fff; border-radius: 20px;\"><h2 style=\"font-size: 32px; margin-bottom: 10px;\">Look Younger. Feel More Confident.</h2>\n<p style=\"font-size: 17px; color: #f8ead7;\">Easy gray coverage for men and women — right at home.</p>\n<p style=\"font-size: 17px; color: #f8ead7;\">New and old packaging shipped at random.</p></section>\n</div>",
+  "published_at": "2026-09-17T14:43:22Z",
+  "created_at": "2026-09-17T14:43:22Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530602532921,
+    "title": "Black",
+    "option1": "Black",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A03-zrh",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234634670137,
+     "product_id": 8454656622649,
+     "position": 8,
+     "created_at": "2026-09-17T14:43:22Z",
+     "updated_at": "2026-09-17T14:43:24Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/07_12ea010b-fc3b-4e21-920a-30a727991242.jpg?v=1789656204",
+     "variant_ids": [
+      46530602532921,
+      46530602598457
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "29.99",
+    "position": 1,
+    "product_id": 8454656622649,
+    "created_at": "2026-09-17T14:43:22Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602565689,
+    "title": "Brown",
+    "option1": "Brown",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A03-zs",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234634702905,
+     "product_id": 8454656622649,
+     "position": 9,
+     "created_at": "2026-09-17T14:43:22Z",
+     "updated_at": "2026-09-17T14:43:24Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/daa7b73a731a46549b4117a4ecf385dc_tplv-fhlh96nyum-resize-webp_800_800_683754dd-70f0-4dd7-9516-2d9cf3fbb34a.jpg?v=1789656204",
+     "variant_ids": [
+      46530602565689
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "29.99",
+    "position": 2,
+    "product_id": 8454656622649,
+    "created_at": "2026-09-17T14:43:22Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602598457,
+    "title": "Chestnut brown",
+    "option1": "Chestnut brown",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A03-hzs",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": {
+     "id": 41234634670137,
+     "product_id": 8454656622649,
+     "position": 8,
+     "created_at": "2026-09-17T14:43:22Z",
+     "updated_at": "2026-09-17T14:43:24Z",
+     "alt": null,
+     "width": 800,
+     "height": 800,
+     "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/07_12ea010b-fc3b-4e21-920a-30a727991242.jpg?v=1789656204",
+     "variant_ids": [
+      46530602532921,
+      46530602598457
+     ]
+    },
+    "available": true,
+    "price": "29.99",
+    "grams": 0,
+    "compare_at_price": "29.99",
+    "position": 3,
+    "product_id": 8454656622649,
+    "created_at": "2026-09-17T14:43:22Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234634440761,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:24Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/01_c2e5d312-d4f0-466e-b44a-3e48f378e27e.png?v=1789656204",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634473529,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:25Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/02_6b87e6e2-2ddd-4420-aac6-8f5385133692.png?v=1789656205",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634506297,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:25Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/03_3dfcd818-6230-468f-b731-5fdd7716230d.png?v=1789656205",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634539065,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:24Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/0_1cda6769-13b9-4e78-8826-b5187a49e6e1.png?v=1789656204",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634571833,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:25Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/05_98667c59-cc18-4b44-ad35-9bb14d26de73.png?v=1789656205",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634604601,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:24Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/06_71e393a6-e7fe-4d15-a235-5a4c343974d5.png?v=1789656204",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634637369,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:25Z",
+    "product_id": 8454656622649,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/07_ec378033-c95a-4228-8f9e-c1091311f464.png?v=1789656205",
+    "width": 1268,
+    "height": 1240
+   },
+   {
+    "id": 41234634670137,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:24Z",
+    "product_id": 8454656622649,
+    "variant_ids": [
+     46530602532921,
+     46530602598457
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/07_12ea010b-fc3b-4e21-920a-30a727991242.jpg?v=1789656204",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634702905,
+    "created_at": "2026-09-17T14:43:22Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:24Z",
+    "product_id": 8454656622649,
+    "variant_ids": [
+     46530602565689
+    ],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/daa7b73a731a46549b4117a4ecf385dc_tplv-fhlh96nyum-resize-webp_800_800_683754dd-70f0-4dd7-9516-2d9cf3fbb34a.jpg?v=1789656204",
+    "width": 800,
+    "height": 800
+   }
+  ],
+  "options": [
+   {
+    "name": "Color",
+    "position": 1,
+    "values": [
+     "Black",
+     "Brown",
+     "Chestnut brown"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8454656524345,
+  "title": "Fluffy Volume Spray – Peach Scent & All-Day Hold",
+  "handle": "blushqora-fluffy-hair-shaping-spray",
+  "body_html": "<p></p>",
+  "published_at": "2026-09-17T14:43:20Z",
+  "created_at": "2026-09-17T14:43:20Z",
+  "updated_at": "2026-10-22T06:43:03Z",
+  "vendor": "mysite",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+   {
+    "id": 46530602369081,
+    "title": "Buy 1 get 1 free",
+    "option1": "Buy 1 get 1 free",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A02-pkg-2PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "37.49",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 1,
+    "product_id": 8454656524345,
+    "created_at": "2026-09-17T14:43:20Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602401849,
+    "title": "Buy 2 get 2 free",
+    "option1": "Buy 2 get 2 free",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A02-pkg-4PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "49.99",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 2,
+    "product_id": 8454656524345,
+    "created_at": "2026-09-17T14:43:20Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   },
+   {
+    "id": 46530602434617,
+    "title": "Buy 3 get 3 free",
+    "option1": "Buy 3 get 3 free",
+    "option2": null,
+    "option3": null,
+    "sku": "seaa3war-A02-pkg-6PC",
+    "requires_shipping": true,
+    "taxable": true,
+    "featured_image": null,
+    "available": true,
+    "price": "62.49",
+    "grams": 0,
+    "compare_at_price": "39.99",
+    "position": 3,
+    "product_id": 8454656524345,
+    "created_at": "2026-09-17T14:43:20Z",
+    "updated_at": "2026-10-22T06:43:03Z"
+   }
+  ],
+  "images": [
+   {
+    "id": 41234634113081,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 1,
+    "updated_at": "2026-09-17T14:43:22Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260730174305_3f8b1d233f60c9ae798a4132a4df6c84_e35b9149-b027-45fb-80b0-6d0e559a9868.jpg?v=1789656202",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634145849,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 2,
+    "updated_at": "2026-09-17T14:43:23Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260730174305_e65b1701c7fb567876953b690ea2ec5c_5d16834d-29c7-4b60-8803-d327cec227e5.png?v=1789656203",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634178617,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 3,
+    "updated_at": "2026-09-17T14:43:23Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/e6e633f6-9054-4bcd-aa84-8b6562bcf9e1.jpg?v=1789656203",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634211385,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 4,
+    "updated_at": "2026-09-17T14:43:23Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/e6f1c1ad-dcc7-4ab8-b19e-aeefb807defc.jpg?v=1789656203",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634244153,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 5,
+    "updated_at": "2026-09-17T14:43:22Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/70e5d566-912a-4c48-9ed0-8f68e0712f0b.jpg?v=1789656202",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634276921,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 6,
+    "updated_at": "2026-09-17T14:43:22Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260730174309_97be8e1e323adc0ee00a6043ed31c092_b78418a7-8497-4947-9819-c2f8aea3b071.jpg?v=1789656202",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634309689,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 7,
+    "updated_at": "2026-09-17T14:43:22Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260730174309_e376df13a68367e4d41a0cccbe6d89e4_cb26caaa-ea72-4bae-b81f-b1be65e8641f.jpg?v=1789656202",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634342457,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 8,
+    "updated_at": "2026-09-17T14:43:22Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/spp_shopify20260730174312_7c37aa67eb7ab917a16f4c440987c6e0_ab46ed90-1526-48e5-b171-0ab74a26bfe9.jpg?v=1789656202",
+    "width": 800,
+    "height": 800
+   },
+   {
+    "id": 41234634375225,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 9,
+    "updated_at": "2026-09-17T14:43:23Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/2_a708f103-593c-415c-942f-76c562fbcedd.png?v=1789656203",
+    "width": 1254,
+    "height": 1254
+   },
+   {
+    "id": 41234634407993,
+    "created_at": "2026-09-17T14:43:20Z",
+    "position": 10,
+    "updated_at": "2026-09-17T14:43:23Z",
+    "product_id": 8454656524345,
+    "variant_ids": [],
+    "src": "https://cdn.shopify.com/s/files/1/0820/5497/1449/files/1_b08c1d29-3817-4f64-8011-b503d8faf063.png?v=1789656203",
+    "width": 1086,
+    "height": 1448
+   }
+  ],
+  "options": [
+   {
+    "name": "BUNDLE & SAVE",
+    "position": 1,
+    "values": [
+     "Buy 1 get 1 free",
+     "Buy 2 get 2 free",
+     "Buy 3 get 3 free"
+    ]
+   }
+  ]
+ }
+]
